@@ -1,0 +1,201 @@
+PubID	title	venue
+300	Neural Approaches for Vulnerability Detection	FSE
+301	Transformer Models for Code Vulnerability Analysis	TSE
+302	GNN-Based Detection of Memory Safety Bugs	ICSE
+303	Multimodal Learning for Software Vulnerability Prediction	EMSE
+304	Static-Dynamic Fusion for Security Defect Detection	S&P
+305	Few-Shot Vulnerability Detection with Large Code Models	NeurIPS
+306	Improving Exploitability Prediction Using Deep Learning	CCS
+307	Patch-Aware Vulnerability Classification Models	ASE
+308	Contrastive Learning for Vulnerability Detection	ICLR
+309	Hybrid Graph-Code Embeddings for Security Analysis	ICSE
+310	Deep Learning for Binary Vulnerability Prediction	RAID
+311	Neural Pattern Mining for Software Vulnerability Analysis	MSR
+312	Code Property Graph Models for Vulnerability Detection	FSE
+313	Attention-Based Models for Buffer Overflow Detection	TDSC
+314	Multilingual Vulnerability Detection Using LLMs	ACL
+315	Prompt-Based Security Code Classification	EMNLP
+316	Static Taint Analysis Augmented with Deep Learning	S&P
+317	Explainable AI for Vulnerability Detection Models	TOSEM
+318	Code Representation Learning for Security Tasks	ICSE
+319	Cross-Project Deep Vulnerability Prediction	EMSE
+320	Syntax-Aware Neural Models for Vulnerability Detection	AAAI
+321	Vulnerability Trend Forecasting Using Time Series Models	NeurIPS
+322	Lightweight Models for IoT Vulnerability Detection	ICCPS
+323	Security Patch Effectiveness Prediction Using ML	FSE
+324	Combining Code Metrics and Deep Features for Risk Detection	JSS
+325	Semantic Code Embeddings for Vulnerability Search	SIGIR
+326	Predicting Zero-Day Vulnerabilities Using ML Models	CCS
+327	Neural Repair Models for Vulnerable Code	ASE
+328	CFG-Augmented Vulnerability Detection Transformers	ICML
+329	Real-Time Vulnerability Detection in CI Pipelines	MSR
+330	Static Code Review Using Large Language Models	ICSE
+331	Patch Ranking for Vulnerability Mitigation	FSE
+332	Learning Vulnerability Patterns With Graph Transformers	NeurIPS
+333	Holistic Vulnerability Detection Using Multimodal Inputs	ICLR
+334	Execution Trace Modeling for Runtime Vulnerability Detection	OOPSLA
+335	Image Classification with Efficient Vision Transformers	CVPR
+336	Object Detection Using Multi-Scale Feature Pyramid Networks	ICCV
+337	Semantic Segmentation with Encoder-Decoder Architectures	CVPR
+338	Video Action Recognition with Temporal Convolutions	NeurIPS
+339	Medical Image Classification Using Vision Transformers	MICCAI
+340	Self-Supervised Learning for Visual Representation Learning	ICML
+341	GAN-Based Image Synthesis Models	ICLR
+342	Multilingual Text Classification with Transformer Encoders	ACL
+343	Named Entity Recognition Using Contextual Embeddings	EMNLP
+344	Neural Machine Translation with Attention Mechanisms	ACL
+345	Text Summarization with Pretrained LLMs	EMNLP
+346	Question Answering Using Retrieval-Augmented LLMs	EMNLP
+347	Dialogue Generation with Reinforcement Learning	AAAI
+348	Paraphrase Detection Using Siamese Networks	ACL
+349	Sentiment Analysis with Domain-Adaptive Transformers	EMNLP
+350	Emotion Recognition from Text Using Pretrained Models	EMNLP
+351	Topic Modeling with Neural Variational Methods	ICML
+352	Document Clustering Using Deep Embeddings	WWW
+353	Relation Extraction with Joint Token-Span Models	ACL
+354	Coreference Resolution Using Neural Architectures	EMNLP
+355	Semantic Similarity Estimation Using Sentence Transformers	ACL
+356	Knowledge Distillation for Large Language Models	ICLR
+357	Prompt Engineering Techniques for Improved LLM Output	EMNLP
+358	Zero-Shot Learning for NLP Tasks with LLMs	ACL
+359	Cross-Lingual Transfer Learning with Multilingual LMs	COLING
+360	Morphological Analysis with Sequence Models	EMNLP
+361	Vision-Language Pretraining for Multimodal Tasks	CVPR
+362	Image Captioning Using Transformer Architectures	ICCV
+363	Visual Question Answering with Multimodal LLMs	NeurIPS
+364	Video Summarization Using Attention Networks	CVPR
+365	Action Recognition with 3D Convolutional Networks	CVPR
+366	Object Tracking with Siamese Neural Networks	ECCV
+367	Face Recognition Using Deep Metric Learning	CVPR
+368	Handwriting Recognition with Neural Encoders	ICDAR
+369	OCR Error Correction Using Language Models	ACL
+370	Speech Recognition Using End-to-End Transformer Models	INTERSPEECH
+371	Speech Emotion Recognition Using Audio-Spectrogram Models	ICASSP
+372	Speaker Identification Using Deep Embedding Models	INTERSPEECH
+373	Audio Classification with Temporal Convolutional Models	ICASSP
+374	Keyword Spotting with Lightweight Neural Models	ICASSP
+375	Speech Enhancement with Denoising Networks	INTERSPEECH
+376	Time Series Forecasting with Temporal Fusion Transformers	NeurIPS
+377	Financial Forecasting Using Deep Learning	ICML
+378	Energy Consumption Prediction Using LSTM Models	AAAI
+379	Anomaly Detection Using Autoencoder Networks	ICML
+380	Fraud Detection with Graph Neural Networks	WWW
+381	Network Intrusion Detection Using Deep Packet Models	RAID
+382	Recommendation Systems Using Graph Embeddings	RecSys
+383	Session-Based Recommendation with Transformers	WWW
+384	Next-Item Prediction Using Sequential Models	SIGIR
+385	CTR Prediction with Wide and Deep Networks	KDD
+386	Feature Selection for High-Dimensional ML Tasks	ICML
+387	Model Calibration for Reliable Predictions	NeurIPS
+388	OOD Detection Using Density Estimation Models	ICLR
+389	Ensemble Learning for Robust Predictions	AAAI
+390	Semi-Supervised Learning for Low-Resource Tasks	ICML
+391	Adversarial Training to Improve Model Robustness	NeurIPS
+392	Neural Architecture Search for ML Optimization	ICLR
+393	Model Quantization for Efficient Deployment	ICML
+394	Edge AI Deployment with Lightweight Deep Models	IoTDI
+395	Distributed Training Techniques for Large Models	SC
+396	Cloud-Based Model Serving Optimization	SoCC
+397	ML Pipeline Orchestration with Automated Frameworks	KDD
+398	Data Augmentation Techniques for Neural Models	CVPR
+399	Self-Supervised Pretraining for Tabular Data	NeurIPS
+400	Knowledge Graph Embedding Methods for ML Tasks	WWW
+401	Graph Representation Learning with GNNs	ICLR
+402	Graph Classification Using Hierarchical Pooling	ICML
+403	Graph Transformer Networks for Complex Graphs	NeurIPS
+404	Node Classification in Large Graphs Using GAT Models	WWW
+405	Link Prediction Using Relational Graph Networks	KDD
+406	Multi-Task Learning with Shared Transformer Backbones	ICLR
+407	Reinforcement Learning with Policy Gradient Methods	ICML
+408	Offline Reinforcement Learning for Sequence Tasks	NeurIPS
+409	Model-Based Reinforcement Learning for Robotics	ICRA
+410	Control Systems Modeling with Neural Networks	CDC
+411	Reward Modeling for Preference-Based Optimization	NeurIPS
+412	LLM Safety Evaluation Using Automated Benchmarks	EMNLP
+413	LLM Hallucination Detection with Consistency Checking	ACL
+414	LLM Alignment Through Preference Optimization	ICLR
+415	Retrieval-Augmented Generation for Factual QA	EMNLP
+416	Multimodal Fusion Techniques for LLMs	CVPR
+417	Long-Context LLMs for Document Understanding	NeurIPS
+418	Efficient Fine-Tuning with Low-Rank Adaptation	ICLR
+419	Domain Adaptation for Specialized LLM Tasks	ACL
+420	Memory-Efficient Inference for Large Language Models	ICML
+421	Uncertainty Estimation in LLM Predictions	AAAI
+422	Model Compression for Large Transformer Models	ICLR
+423	Data-Efficient Pretraining for LLMs	EMNLP
+424	Continual Learning for NLP Tasks	ACL
+425	Knowledge-Intensive Reasoning with Large Models	EMNLP
+426	Semantic Search Using Vector Embeddings	SIGIR
+427	Document Ranking Using Cross-Encoders	WWW
+428	Query Rewriting for Retrieval Optimization	SIGIR
+429	Spelling Correction Using Language Models	ACL
+430	Grammar Correction Using Transformer Decoders	EMNLP
+431	Text Normalization Using Seq2Seq Models	ACL
+432	Semantic Parsing with Transformer Encoders	EMNLP
+433	Code Search Using Dual Encoder Models	ICPC
+434	Code Completion Using Decoder-Only LLMs	ICSE
+435	Code Summarization Using Pretrained Representations	FSE
+436	Code Clone Detection Using Graph Neural Models	ICPC
+437	Bug Report Classification Using Neural Text Models	MSR
+438	Commit Message Generation with LLMs	MSR
+439	Software Documentation Generation Using LLMs	ICSE
+440	Repository-Level Embedding Models for Software Projects	FSE
+441	Multi-View Learning for Software Engineering Tasks	ICSE
+442	Software Architecture Recovery with Deep Models	ICSME
+443	ML-Driven Program Analysis for Large Codebases	FSE
+444	Static Analysis Enhancement Using AI Models	ASE
+445	Log Anomaly Detection Using Neural Sequence Models	ICML
+446	Cyber Threat Classification Using ML Methods	RAID
+447	Malware Traffic Classification Using Deep Models	USENIX
+448	Botnet Detection Using Graph Neural Networks	RAID
+449	Secure Coding Assistance with Generative Models	ICSE
+450	Static Malware Analysis Using Neural Models	ACSAC
+451	Memory Corruption Detection Using Deep Learning	S&P
+452	SQL Injection Detection Using CNN Models	RAID
+453	Detecting API Misuse Patterns Using ML Models	ICPC
+454	Static Analysis for C++ Templates Using LLMs	ASE
+455	Data Leakage Detection in ML Pipelines	KDD
+456	Code Obfuscation Deobfuscation with LLMs	S&P
+457	Binary Function Similarity Using Siamese Models	USENIX
+458	Developer Profiling with Machine Learning	MSR
+459	Defect Prediction Using Ensemble Deep Models	TSE
+460	Neural Code Search Using Transformer Embeddings	ICSE
+461	Software Design Pattern Detection Using ML	ICSME
+462	Secure Build Pipeline Analysis with Graph Models	FSE
+463	LLM-Based Code Risk Scoring Models	EMNLP
+464	Program Equivalence Checking Using Neural Approaches	POPL
+465	Neural Debugging Assistance Tools for Developers	ASE
+466	Code Review Automation with Large Models	ICSE
+467	Program Synthesis Using Constrained Decoding	NeurIPS
+468	Symbolic Execution Acceleration Using LLM Priors	S&P
+469	Knowledge-Augmented Repair Models for Code	ICSE
+470	Software Testing Case Generation Using LLMs	ISSTA
+471	Mutation Testing Powered by Neural Models	ICST
+472	Runtime Monitoring Using Sequence Models	OOPSLA
+473	Resource Leak Detection via Attention Networks	TSE
+474	Code Smell Detection with Deep Architectures	SQJ
+475	Automatic Refactoring Recommendation Using ML	ICSME
+476	Repository Embedding Models for Project Evolution	MSR
+477	Neural Estimation of Technical Debt	JSS
+478	Adversarial Attacks on Software Engineering Models	S&P
+479	Detecting Hardcoded Secrets Using ML Embeddings	USENIX
+480	Mining Software Repositories Using Deep Transformers	MSR
+481	Mining StackOverflow for Developer Knowledge	WWW
+482	Predicting Build Failures Using Sequence Models	ASE
+483	Test Case Prioritization Using ML Techniques	ICST
+484	Reinforcement Learning for Compiler Optimization	CGO
+485	Learning Performance Models for Cloud Applications	SoCC
+486	Detecting Data Races Using Graph Neural Models	PPoPP
+487	Neural Architectures for Large-Scale Codebases	OOPSLA
+488	Commit-Level Defect Prediction Using GNNs	MSR
+489	Software Supply Chain Security with ML Models	S&P
+490	API Usage Pattern Mining Using Transformer Encoders	ICPC
+491	Impact Analysis for Code Changes Using ML	ICSME
+492	Code Layout Optimization with Deep Learning	PLDI
+493	Function Boundary Detection Using Neural Models	ICSE
+494	Neural Renderers for Visual Programming Interfaces	CHI
+495	Secure Firmware Analysis Using Graph Embeddings	RAID
+496	Predicting Software Risks Using Hybrid Models	SQJ
+497	Automated Fault Localization Using Deep Models	ASE
+498	Dataset Quality Evaluation Using ML Techniques	KDD
+499	Multimodal Analysis for Software Artifact Linkage	ICSE

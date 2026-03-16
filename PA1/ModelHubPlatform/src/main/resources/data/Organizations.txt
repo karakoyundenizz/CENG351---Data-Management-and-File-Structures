@@ -1,0 +1,251 @@
+OrgID	org_name	rating
+1081	Google DeepMind	4.22
+1233	Google Research	3.26
+1239	Meta AI	1.92
+1264	OpenAI	3.18
+1316	Microsoft Research	4.14
+1404	NVIDIA Research	2.37
+1415	HuggingFace	2.95
+1449	Amazon AI	0.19
+1460	IBM Research	0.02
+1575	Apple ML Team	3.12
+1601	Salesforce Research	2.9
+1623	Cohere AI	2.1
+1741	Anthropic	1.53
+1746	Stability AI	1.12
+1748	Tencent AI Lab	2.44
+1779	Baidu Research	1.43
+1794	Alibaba DAMO Academy	1.04
+1816	Intel AI Lab	0.7
+1820	Samsung Research	1.93
+1837	Qualcomm AI	2.23
+1839	Sony AI	3.73
+1906	Huawei Noah's Ark Lab	0.93
+1907	ByteDance AI	3.02
+1952	Uber AI Labs	3.34
+1977	JPMorgan AI Research	0.46
+1982	Bloomberg AI	1.01
+1983	Tesla AI	0.63
+1989	AI2 Allen Institute	0.77
+1994	CarperAI	4.83
+2002	EleutherAI	2.36
+2043	Mistral AI	3.89
+2074	Adept AI	3.68
+2130	xAI	0.64
+2133	Lambda Labs	0.49
+2184	RunwayML	4.87
+2255	Reka AI	3.09
+2267	Databricks AI	3.98
+2272	Graphcore Research	2.38
+2279	OpenMined	4.63
+2328	DeepSeek AI	1.07
+2347	Grok AI (xAI)	4.58
+2490	Qwen Team (Alibaba)	4.08
+2507	Sonnet AI	1.63
+2519	ChatGPT Research (OpenAI)	0.78
+2524	Gemini Team (Google DeepMind)	4.4
+2525	Horizon Robotics	2.42
+2526	Preferred Networks	4.09
+2580	SambaNova Systems	3.68
+2617	Aleph Alpha	1.34
+2642	LightOn AI	1.94
+2657	TwentyBN	0.29
+2659	LatticeFlow AI	1.39
+2717	Konduit AI	4.93
+2749	Anyscale	1.52
+2770	Scale AI	3.38
+2789	Weights & Biases	3.09
+2864	PapersWithCode	1.73
+2870	Unitary AI	4.13
+2894	Perplexity AI	0.21
+2904	Vicarious AI	3.91
+2926	Global AI Lab	4.53
+2940	Quantum AI Lab	3.31
+2980	Digital Cognitive Computing Research Center	1.6
+3068	Ultra Data Science Research Center	2.81
+3077	Advanced AI Innovation Hub	2.94
+3089	Ultra Machine Learning Innovation Hub	3.8
+3131	Quantum Data Science Institute	4.73
+3139	Digital AI Innovation Hub	3.61
+3200	Pioneer Deep Learning Research Center	1.91
+3227	Future Deep Learning Technologies	1.38
+3228	Quantum AI Institute	2.79
+3257	Ultra AI Lab	2.36
+3275	Advanced Neural Systems Lab	0.07
+3285	Ultra AI Institute	4.77
+3420	Quantum Cognitive Computing Solutions	0.97
+3514	Future Neural Systems Lab	3.78
+3587	Global Neural Systems Research Center	0.87
+3607	Future AI Institute	0.69
+3613	Prime Deep Learning Research Center	0.01
+3628	Vision Neural Systems Technologies	3.17
+3630	Vision Data Science Lab	3.15
+3634	Vision Cognitive Computing Research Center	4.0
+3723	Vision Data Science Institute	1.04
+3763	Vision Neural Systems Research Center	3.48
+3793	Digital Cognitive Computing Institute	2.68
+3861	NextGen AI Research Center	2.73
+3890	Quantum Data Science Innovation Hub	2.50
+3897	Ultra Neural Systems Innovation Hub	3.81
+3925	Ultra Machine Learning Lab	4.37
+3955	Digital Cognitive Computing Solutions	3.39
+3957	Global Machine Learning Lab	2.67
+4040	Advanced Data Science Solutions	4.11
+4204	Advanced Neural Systems Lab	0.39
+4224	Quantum Machine Learning Solutions	3.1
+4309	Ultra Cognitive Computing Technologies	3.54
+4310	Ultra AI Research Center	3.95
+4370	Pioneer AI Innovation Hub	3.77
+4420	Vision Neural Systems Technologies	2.38
+4432	Future Cognitive Computing Research Center	1.62
+4447	Vision Cognitive Computing Institute	2.66
+4455	Future AI Solutions	2.83
+4522	Ultra Machine Learning Lab	4.24
+4612	Future Deep Learning Lab	1.14
+4635	Future Neural Systems Technologies	1.18
+4658	Advanced Cognitive Computing Solutions	0.27
+4756	Digital Deep Learning Technologies	3.71
+4758	Future Deep Learning Solutions	0.25
+4821	Future Machine Learning Lab	0.68
+4847	Digital Machine Learning Innovation Hub	3.74
+4881	Global Cognitive Computing Solutions	1.11
+4917	Digital Data Science Institute	1.8
+4918	NextGen Machine Learning Institute	2.75
+4982	Prime AI Innovation Hub	1.21
+4999	Digital Machine Learning Solutions	0.36
+5103	Future AI Research Center	2.62
+5109	Advanced Data Science Institute	3.9
+5121	Future AI Innovation Hub	4.24
+5288	NextGen Cognitive Computing Research Center	3.49
+5358	Future Cognitive Computing Technologies	0.68
+5368	NextGen AI Lab	4.94
+5431	Ultra AI Technologies	3.59
+5456	Vision Data Science Research Center	2.91
+5458	Advanced AI Innovation Hub	4.81
+5496	Future Deep Learning Institute	0.26
+5522	Advanced AI Institute	4.67
+5546	Pioneer Machine Learning Solutions	3.46
+5563	Quantum Data Science Research Center	0.59
+5618	Advanced Machine Learning Technologies	4.11
+5623	Quantum Cognitive Computing Research Center	4.25
+5630	Advanced Neural Systems Institute	4.63
+5691	Vision AI Lab	1.16
+5696	Ultra Data Science Technologies	2.65
+5732	Future Machine Learning Innovation Hub	3.71
+5755	Ultra Data Science Lab	1.38
+5779	Future Machine Learning Lab	2.83
+5820	Quantum Neural Systems Research Center	3.13
+5827	Quantum Data Science Research Center	0.38
+5850	Global Data Science Innovation Hub	2.91
+5912	Future Neural Systems Lab	0.45
+5916	NextGen AI Research Center	1.82
+5918	Prime Machine Learning Research Center	3.5
+5945	Advanced Deep Learning Research Center	1.28
+5976	Vision Machine Learning Innovation Hub	2.8
+6001	Pioneer AI Innovation Hub	2.32
+6006	NextGen AI Lab	3.94
+6018	Prime Neural Systems Research Center	0.42
+6096	Vision Neural Systems Lab	3.44
+6196	Vision Deep Learning Lab	1.84
+6205	Digital AI Lab	3.91
+6219	NextGen Data Science Lab	2.93
+6329	Pioneer AI Innovation Hub	4.71
+6340	Future Deep Learning Technologies	0.76
+6344	Prime Deep Learning Technologies	1.59
+6347	Advanced Deep Learning Solutions	4.93
+6350	Vision Deep Learning Technologies	1.71
+6498	Quantum Data Science Solutions	1.3
+6538	Future Data Science Research Center	2.66
+6575	Quantum Neural Systems Research Center	1.71
+6591	Ultra Machine Learning Innovation Hub	4.02
+6595	Pioneer AI Technologies	2.37
+6637	Prime Cognitive Computing Solutions	4.19
+6760	Vision Machine Learning Institute	3.61
+6830	Ultra Neural Systems Technologies	2.84
+6856	Quantum Neural Systems Solutions	1.35
+6872	Digital Machine Learning Innovation Hub	2.33
+6931	Future Machine Learning Lab	1.13
+6971	Quantum Machine Learning Lab	0.43
+6984	Pioneer Cognitive Computing Technologies	0.13
+6998	Ultra AI Technologies	1.96
+7039	Digital Deep Learning Solutions	4.35
+7050	Pioneer Cognitive Computing Innovation Hub	1.98
+7054	Quantum Cognitive Computing Institute	0.4
+7063	Digital Cognitive Computing Lab	4.58
+7192	Global AI Research Center	2.67
+7203	NextGen Deep Learning Innovation Hub	1.95
+7268	Advanced Data Science Technologies	3.21
+7292	Digital AI Innovation Hub	4.32
+7324	Vision Deep Learning Research Center	2.29
+7391	Pioneer Data Science Solutions	2.50
+7524	Global Cognitive Computing Lab	1.88
+7539	Quantum Neural Systems Lab	0.85
+7563	Prime AI Innovation Hub	0.31
+7622	Prime Neural Systems Technologies	2.8
+7660	Pioneer AI Lab	2.11
+7687	Advanced Cognitive Computing Lab	3.5
+7698	Advanced Neural Systems Research Center	3.9
+7749	Digital Neural Systems Technologies	3.13
+7763	Pioneer Deep Learning Solutions	2.47
+7831	Prime AI Lab	3.7
+7854	Pioneer Deep Learning Technologies	4.7
+7861	Future Cognitive Computing Technologies	2.06
+7865	Global Cognitive Computing Technologies	0.29
+7994	Prime AI Innovation Hub	2.47
+8000	Pioneer Deep Learning Solutions	1.14
+8018	Quantum Machine Learning Institute	0.27
+8026	Prime Neural Systems Institute	3.69
+8066	Pioneer Data Science Institute	0.49
+8138	Quantum Cognitive Computing Lab	1.09
+8175	Ultra Machine Learning Solutions	1.26
+8186	Vision Machine Learning Innovation Hub	0.29
+8193	Future Data Science Innovation Hub	0.56
+8206	Pioneer Machine Learning Innovation Hub	2.92
+8223	Advanced Cognitive Computing Institute	4.8
+8271	Digital Cognitive Computing Technologies	4.95
+8277	Quantum Machine Learning Technologies	0.29
+8278	NextGen Deep Learning Institute	4.48
+8320	NextGen AI Research Center	2.82
+8346	Global Cognitive Computing Research Center	2.94
+8363	NextGen Cognitive Computing Lab	0.08
+8390	Ultra Cognitive Computing Technologies	1.16
+8506	NextGen Deep Learning Lab	3.99
+8508	Future Machine Learning Technologies	0.21
+8528	Ultra AI Research Center	0.93
+8619	Ultra Deep Learning Technologies	2.13
+8654	Prime Deep Learning Research Center	2.26
+8696	Global Machine Learning Lab	3.89
+8705	Advanced Cognitive Computing Institute	1.85
+8817	Future Cognitive Computing Innovation Hub	1.78
+8822	Ultra Data Science Technologies	2.68
+8841	Global Cognitive Computing Lab	4.44
+8920	Pioneer Neural Systems Lab	2.45
+8942	Prime Machine Learning Research Center	2.18
+8945	Vision Cognitive Computing Research Center	0.43
+8953	Vision Deep Learning Technologies	4.96
+8964	NextGen Neural Systems Technologies	1.44
+9038	Advanced Cognitive Computing Solutions	0.97
+9046	NextGen Cognitive Computing Solutions	4.6
+9074	Prime Data Science Innovation Hub	4.89
+9114	Pioneer Cognitive Computing Lab	1.01
+9115	Advanced Cognitive Computing Research Center	3.76
+9116	Prime Neural Systems Institute	1.72
+9138	Advanced Deep Learning Institute	1.36
+9218	Advanced AI Technologies	0.08
+9222	NextGen Neural Systems Solutions	3.37
+9224	Pioneer Cognitive Computing Research Center	4.98
+9265	Pioneer Cognitive Computing Lab	4.62
+9307	Digital Data Science Research Center	2.74
+9310	Prime Data Science Technologies	1.1
+9323	Ultra Machine Learning Solutions	3.14
+9439	Future Cognitive Computing Innovation Hub	0.99
+9450	Pioneer Cognitive Computing Institute	2.14
+9507	Vision Deep Learning Institute	2.25
+9664	Ultra Machine Learning Innovation Hub	1.64
+9711	Pioneer Data Science Research Center	1.96
+9759	NextGen AI Research Center	2.34
+9783	Ultra Deep Learning Research Center	3.26
+9806	Advanced Cognitive Computing Research Center	1.73
+9840	Digital Data Science Technologies	3.02
+9901	Vision Cognitive Computing Research Center	0.95
+9935	Pioneer Deep Learning Institute	4.22

@@ -1,0 +1,1190 @@
+========== STARTING OUTPUT FILE ==========
+
+--------------------------------------------------------------
+***** Task 1: Create Database Tables *****
+Created 14 tables.
+
+--------------------------------------------------------------
+
+--------------------------------------------------------------
+***** Task 2: Insert Users *****
+500 users were inserted.
+
+--------------------------------------------------------------
+
+--------------------------------------------------------------
+***** Task 2: Insert Organizations *****
+250 organizations were inserted.
+
+--------------------------------------------------------------
+
+--------------------------------------------------------------
+***** Task 2: Insert Tasks *****
+20 tasks were inserted.
+
+--------------------------------------------------------------
+
+--------------------------------------------------------------
+***** Task 2: Insert Datasets *****
+70 datasets were inserted.
+
+--------------------------------------------------------------
+
+--------------------------------------------------------------
+***** Task 2: Insert Publications *****
+200 publications were inserted.
+
+--------------------------------------------------------------
+
+--------------------------------------------------------------
+***** Task 2: Insert Profiles *****
+250 profiles were inserted.
+
+--------------------------------------------------------------
+
+--------------------------------------------------------------
+***** Task 2: Insert follows *****
+500 follows were inserted.
+
+--------------------------------------------------------------
+
+--------------------------------------------------------------
+***** Task 2: Insert Models *****
+50 models were inserted.
+
+--------------------------------------------------------------
+
+--------------------------------------------------------------
+***** Task 2: Insert uploads *****
+210 uploads were inserted.
+
+--------------------------------------------------------------
+
+--------------------------------------------------------------
+***** Task 2: Insert ModelVersions *****
+153 model versions were inserted.
+
+--------------------------------------------------------------
+
+--------------------------------------------------------------
+***** Task 2: Insert designed_for *****
+233 designed_for(s) were inserted.
+
+--------------------------------------------------------------
+
+--------------------------------------------------------------
+***** Task 2: Insert runs *****
+308 runs were inserted.
+
+--------------------------------------------------------------
+
+--------------------------------------------------------------
+***** Task 2: Insert Results *****
+629 results were inserted.
+
+--------------------------------------------------------------
+
+--------------------------------------------------------------
+***** Task 2: Insert includes *****
+894 includes were inserted.
+
+--------------------------------------------------------------
+
+--------------------------------------------------------------
+***** Task 3: Users Without Profiles *****
+User{PIN=939324, user_name='Olivia Young', reputation_score=100}
+User{PIN=977914, user_name='Jane Young', reputation_score=100}
+User{PIN=366656, user_name='Susan King', reputation_score=99}
+User{PIN=619026, user_name='Chloe Wilson', reputation_score=99}
+User{PIN=792964, user_name='Megan Moore', reputation_score=99}
+User{PIN=666833, user_name='David Nguyen', reputation_score=98}
+User{PIN=189706, user_name='Megan Anderson', reputation_score=97}
+User{PIN=295772, user_name='Megan Wilson', reputation_score=97}
+User{PIN=267381, user_name='Heather Johnson', reputation_score=96}
+User{PIN=225145, user_name='Ethan Brown', reputation_score=95}
+User{PIN=576320, user_name='Thomas Wilson', reputation_score=95}
+User{PIN=438775, user_name='George Scott', reputation_score=94}
+User{PIN=527979, user_name='Scott Robinson', reputation_score=94}
+User{PIN=200007, user_name='Peter Green', reputation_score=93}
+User{PIN=143587, user_name='Ella Adams', reputation_score=91}
+User{PIN=344896, user_name='Scott Clark', reputation_score=91}
+User{PIN=596226, user_name='Thomas Gonzalez', reputation_score=91}
+User{PIN=817187, user_name='Scott Williams', reputation_score=91}
+User{PIN=872052, user_name='Mike Harris', reputation_score=91}
+User{PIN=376058, user_name='Linda Robinson', reputation_score=90}
+User{PIN=757537, user_name='Mike Brown', reputation_score=90}
+User{PIN=479901, user_name='William Jones', reputation_score=89}
+User{PIN=190442, user_name='Zach Rodriguez', reputation_score=88}
+User{PIN=924734, user_name='Laura Green', reputation_score=88}
+User{PIN=966740, user_name='Alan Baker', reputation_score=88}
+User{PIN=122836, user_name='Chris Anderson', reputation_score=85}
+User{PIN=219022, user_name='Peter Perez', reputation_score=85}
+User{PIN=348302, user_name='Noah White', reputation_score=85}
+User{PIN=132589, user_name='Mark King', reputation_score=84}
+User{PIN=417794, user_name='Thomas Lee', reputation_score=84}
+User{PIN=304061, user_name='Sarah Allen', reputation_score=83}
+User{PIN=760806, user_name='Zach Harris', reputation_score=83}
+User{PIN=103453, user_name='Jennifer Lewis', reputation_score=82}
+User{PIN=807752, user_name='Chloe Anderson', reputation_score=81}
+User{PIN=823718, user_name='Karen Anderson', reputation_score=81}
+User{PIN=112769, user_name='William Lee', reputation_score=80}
+User{PIN=442926, user_name='Olivia Nguyen', reputation_score=78}
+User{PIN=549630, user_name='Daniel Scott', reputation_score=78}
+User{PIN=261979, user_name='Peter Miller', reputation_score=77}
+User{PIN=603049, user_name='Steven Miller', reputation_score=77}
+User{PIN=766895, user_name='Elizabeth Green', reputation_score=76}
+User{PIN=799997, user_name='Kevin Harris', reputation_score=76}
+User{PIN=343830, user_name='Chloe Jackson', reputation_score=75}
+User{PIN=372109, user_name='Jennifer Moore', reputation_score=75}
+User{PIN=682046, user_name='Jane Perez', reputation_score=75}
+User{PIN=340054, user_name='Thomas Jones', reputation_score=74}
+User{PIN=331552, user_name='Kevin Miller', reputation_score=73}
+User{PIN=340856, user_name='Zach Anderson', reputation_score=73}
+User{PIN=691180, user_name='Jason Taylor', reputation_score=73}
+User{PIN=718130, user_name='Jason Williams', reputation_score=73}
+User{PIN=742053, user_name='Rachel Allen', reputation_score=73}
+User{PIN=937895, user_name='Sarah Baker', reputation_score=73}
+User{PIN=182916, user_name='Liam Lee', reputation_score=72}
+User{PIN=987545, user_name='Maria Moore', reputation_score=72}
+User{PIN=324594, user_name='William Davis', reputation_score=70}
+User{PIN=838178, user_name='Sophia Garcia', reputation_score=68}
+User{PIN=153593, user_name='David Johnson', reputation_score=67}
+User{PIN=614080, user_name='Peter Lewis', reputation_score=66}
+User{PIN=637945, user_name='Elizabeth Scott', reputation_score=66}
+User{PIN=676769, user_name='Patrick Nguyen', reputation_score=66}
+User{PIN=347772, user_name='Thomas Baker', reputation_score=65}
+User{PIN=544454, user_name='Lisa Young', reputation_score=65}
+User{PIN=814182, user_name='Patrick Scott', reputation_score=65}
+User{PIN=359925, user_name='James Johnson', reputation_score=64}
+User{PIN=632816, user_name='George White', reputation_score=64}
+User{PIN=658913, user_name='Susan Wilson', reputation_score=64}
+User{PIN=664963, user_name='Kevin Williams', reputation_score=63}
+User{PIN=900911, user_name='Sarah Brown', reputation_score=62}
+User{PIN=159224, user_name='Jane Jones', reputation_score=61}
+User{PIN=213910, user_name='William Taylor', reputation_score=61}
+User{PIN=393055, user_name='Chris Lee', reputation_score=61}
+User{PIN=498347, user_name='Olivia Green', reputation_score=61}
+User{PIN=863077, user_name='Ethan Baker', reputation_score=60}
+User{PIN=300069, user_name='Susan Adams', reputation_score=59}
+User{PIN=318658, user_name='Elizabeth Thomas', reputation_score=59}
+User{PIN=700209, user_name='Jane Hill', reputation_score=59}
+User{PIN=339003, user_name='Kevin Robinson', reputation_score=58}
+User{PIN=658178, user_name='George Johnson', reputation_score=58}
+User{PIN=294129, user_name='Michael Young', reputation_score=57}
+User{PIN=976630, user_name='Linda Gonzalez', reputation_score=57}
+User{PIN=118893, user_name='Zach Thompson', reputation_score=56}
+User{PIN=140822, user_name='Michael Lewis', reputation_score=56}
+User{PIN=359880, user_name='Rachel Wilson', reputation_score=56}
+User{PIN=517605, user_name='Jennifer Williams', reputation_score=55}
+User{PIN=899674, user_name='Susan Perez', reputation_score=55}
+User{PIN=758941, user_name='Zach Davis', reputation_score=54}
+User{PIN=920450, user_name='Liam Martinez', reputation_score=54}
+User{PIN=928888, user_name='Chloe Jones', reputation_score=54}
+User{PIN=148687, user_name='Susan Johnson', reputation_score=53}
+User{PIN=394565, user_name='Robert Green', reputation_score=53}
+User{PIN=687065, user_name='Alan Torres', reputation_score=53}
+User{PIN=154318, user_name='Lisa Torres', reputation_score=52}
+User{PIN=199228, user_name='Mike Anderson', reputation_score=52}
+User{PIN=326396, user_name='Chloe Young', reputation_score=52}
+User{PIN=344190, user_name='Michael Adams', reputation_score=52}
+User{PIN=402563, user_name='Ella Hill', reputation_score=52}
+User{PIN=750487, user_name='John Perez', reputation_score=52}
+User{PIN=896702, user_name='Chris Brown', reputation_score=52}
+User{PIN=444238, user_name='Susan Torres', reputation_score=51}
+User{PIN=471604, user_name='Emily Jones', reputation_score=51}
+User{PIN=647948, user_name='Elizabeth Johnson', reputation_score=51}
+User{PIN=800234, user_name='Chris Wright', reputation_score=50}
+User{PIN=115447, user_name='Rachel Davis', reputation_score=49}
+User{PIN=268827, user_name='Tim Baker', reputation_score=49}
+User{PIN=443321, user_name='Daniel Adams', reputation_score=49}
+User{PIN=605608, user_name='Jason Brown', reputation_score=49}
+User{PIN=663478, user_name='Michael Martin', reputation_score=49}
+User{PIN=175415, user_name='Steven Smith', reputation_score=48}
+User{PIN=346319, user_name='Jason Davis', reputation_score=48}
+User{PIN=379590, user_name='Peter Jones', reputation_score=48}
+User{PIN=852760, user_name='Kevin Moore', reputation_score=48}
+User{PIN=415044, user_name='Michael Scott', reputation_score=47}
+User{PIN=438492, user_name='Chris Allen', reputation_score=47}
+User{PIN=628313, user_name='James Anderson', reputation_score=47}
+User{PIN=710644, user_name='James Jones', reputation_score=47}
+User{PIN=712793, user_name='Elizabeth Rodriguez', reputation_score=46}
+User{PIN=744044, user_name='Ethan Green', reputation_score=46}
+User{PIN=374762, user_name='Linda Hill', reputation_score=45}
+User{PIN=431054, user_name='Peter Torres', reputation_score=45}
+User{PIN=276711, user_name='Jennifer King', reputation_score=44}
+User{PIN=302267, user_name='Chloe Lee', reputation_score=44}
+User{PIN=558727, user_name='Hannah Martinez', reputation_score=44}
+User{PIN=458580, user_name='Jennifer Walker', reputation_score=43}
+User{PIN=569598, user_name='Robert Torres', reputation_score=43}
+User{PIN=590707, user_name='William Baker', reputation_score=43}
+User{PIN=848747, user_name='Michael Robinson', reputation_score=43}
+User{PIN=859180, user_name='Noah Allen', reputation_score=43}
+User{PIN=284373, user_name='Susan Rodriguez', reputation_score=41}
+User{PIN=408435, user_name='Ethan Taylor', reputation_score=41}
+User{PIN=466131, user_name='Emma Moore', reputation_score=41}
+User{PIN=752788, user_name='Angela Wright', reputation_score=41}
+User{PIN=850338, user_name='Laura Clark', reputation_score=41}
+User{PIN=916170, user_name='Kevin Thompson', reputation_score=41}
+User{PIN=937385, user_name='Alan Gonzalez', reputation_score=41}
+User{PIN=636675, user_name='Mark White', reputation_score=40}
+User{PIN=795295, user_name='Tim Lewis', reputation_score=40}
+User{PIN=850187, user_name='Emma Martinez', reputation_score=40}
+User{PIN=498276, user_name='Liam Thompson', reputation_score=39}
+User{PIN=574912, user_name='Grace Clark', reputation_score=39}
+User{PIN=771588, user_name='Olivia Adams', reputation_score=39}
+User{PIN=860592, user_name='Maria Lewis', reputation_score=39}
+User{PIN=952569, user_name='Kevin Brown', reputation_score=39}
+User{PIN=366731, user_name='Scott Torres', reputation_score=38}
+User{PIN=643405, user_name='Jason Garcia', reputation_score=38}
+User{PIN=901167, user_name='Mike Adams', reputation_score=38}
+User{PIN=140974, user_name='Chris Martin', reputation_score=37}
+User{PIN=194024, user_name='Emma Thompson', reputation_score=37}
+User{PIN=875250, user_name='Liam Anderson', reputation_score=37}
+User{PIN=914850, user_name='Tim Moore', reputation_score=37}
+User{PIN=332566, user_name='Robert Harris', reputation_score=36}
+User{PIN=340571, user_name='Heather Lee', reputation_score=36}
+User{PIN=169226, user_name='Tim Adams', reputation_score=35}
+User{PIN=171885, user_name='Ella Brown', reputation_score=35}
+User{PIN=386555, user_name='Olivia Allen', reputation_score=35}
+User{PIN=640356, user_name='Liam White', reputation_score=35}
+User{PIN=984920, user_name='Liam Lewis', reputation_score=35}
+User{PIN=521357, user_name='Jennifer Thompson', reputation_score=34}
+User{PIN=592693, user_name='Tim Jones', reputation_score=34}
+User{PIN=907584, user_name='Peter Baker', reputation_score=34}
+User{PIN=149560, user_name='Olivia Martinez', reputation_score=33}
+User{PIN=261413, user_name='Mike Young', reputation_score=33}
+User{PIN=488571, user_name='Emily Rodriguez', reputation_score=33}
+User{PIN=799373, user_name='Zach Perez', reputation_score=33}
+User{PIN=814213, user_name='Sophia Perez', reputation_score=33}
+User{PIN=937422, user_name='Jane Anderson', reputation_score=33}
+User{PIN=423470, user_name='David Scott', reputation_score=32}
+User{PIN=696162, user_name='James Smith', reputation_score=32}
+User{PIN=917277, user_name='Noah King', reputation_score=32}
+User{PIN=297505, user_name='Ethan Torres', reputation_score=30}
+User{PIN=554575, user_name='Sarah Garcia', reputation_score=30}
+User{PIN=606106, user_name='Susan Green', reputation_score=29}
+User{PIN=665865, user_name='Emily Thompson', reputation_score=29}
+User{PIN=713152, user_name='Mike Perez', reputation_score=29}
+User{PIN=800566, user_name='Mike Lewis', reputation_score=29}
+User{PIN=855079, user_name='Peter Taylor', reputation_score=29}
+User{PIN=991191, user_name='Daniel Smith', reputation_score=29}
+User{PIN=467593, user_name='Olivia Gonzalez', reputation_score=28}
+User{PIN=467608, user_name='Susan Martinez', reputation_score=28}
+User{PIN=699181, user_name='John Smith', reputation_score=28}
+User{PIN=549618, user_name='Susan Scott', reputation_score=27}
+User{PIN=555230, user_name='Sarah Johnson', reputation_score=27}
+User{PIN=151546, user_name='Sarah Taylor', reputation_score=26}
+User{PIN=420693, user_name='Lisa Martinez', reputation_score=26}
+User{PIN=777773, user_name='Ella Young', reputation_score=26}
+User{PIN=780604, user_name='David Young', reputation_score=26}
+User{PIN=482651, user_name='James Davis', reputation_score=25}
+User{PIN=830021, user_name='Steven King', reputation_score=25}
+User{PIN=215535, user_name='Laura Brown', reputation_score=24}
+User{PIN=892758, user_name='Emily Hill', reputation_score=24}
+User{PIN=978952, user_name='Susan Young', reputation_score=24}
+User{PIN=507078, user_name='Jane Wright', reputation_score=23}
+User{PIN=694211, user_name='Jane Martin', reputation_score=23}
+User{PIN=774550, user_name='Rachel Jones', reputation_score=23}
+User{PIN=969725, user_name='Robert Scott', reputation_score=22}
+User{PIN=759134, user_name='Daniel Johnson', reputation_score=21}
+User{PIN=781650, user_name='Heather King', reputation_score=21}
+User{PIN=230287, user_name='Amy Perez', reputation_score=20}
+User{PIN=391339, user_name='Patrick Thomas', reputation_score=20}
+User{PIN=554778, user_name='Jane Baker', reputation_score=20}
+User{PIN=818301, user_name='Steven Adams', reputation_score=20}
+User{PIN=130276, user_name='Angela Torres', reputation_score=19}
+User{PIN=819782, user_name='Angela Miller', reputation_score=19}
+User{PIN=114522, user_name='Sophia Lewis', reputation_score=18}
+User{PIN=288697, user_name='Angela Brown', reputation_score=18}
+User{PIN=750844, user_name='Karen Lewis', reputation_score=18}
+User{PIN=827734, user_name='William Thomas', reputation_score=18}
+User{PIN=260615, user_name='David Thompson', reputation_score=17}
+User{PIN=306683, user_name='Heather Wright', reputation_score=17}
+User{PIN=441614, user_name='Ethan Gonzalez', reputation_score=17}
+User{PIN=879341, user_name='Grace Thomas', reputation_score=17}
+User{PIN=942361, user_name='Karen Robinson', reputation_score=17}
+User{PIN=119561, user_name='Ethan Smith', reputation_score=16}
+User{PIN=279149, user_name='Karen Clark', reputation_score=16}
+User{PIN=334920, user_name='Alan Thomas', reputation_score=16}
+User{PIN=335663, user_name='Noah Robinson', reputation_score=15}
+User{PIN=876986, user_name='Hannah Adams', reputation_score=15}
+User{PIN=907286, user_name='Karen Thomas', reputation_score=15}
+User{PIN=205489, user_name='Karen Jackson', reputation_score=14}
+User{PIN=494507, user_name='Lisa Wright', reputation_score=14}
+User{PIN=995129, user_name='Sophia Harris', reputation_score=13}
+User{PIN=205554, user_name='Lisa Rodriguez', reputation_score=12}
+User{PIN=518195, user_name='Linda White', reputation_score=12}
+User{PIN=750047, user_name='Thomas Rodriguez', reputation_score=12}
+User{PIN=837544, user_name='Robert Lee', reputation_score=12}
+User{PIN=100879, user_name='Grace Harris', reputation_score=11}
+User{PIN=144659, user_name='Sophia Miller', reputation_score=11}
+User{PIN=348233, user_name='Mark Rodriguez', reputation_score=11}
+User{PIN=463521, user_name='George Garcia', reputation_score=11}
+User{PIN=622394, user_name='Lisa Brown', reputation_score=11}
+User{PIN=793446, user_name='Hannah Davis', reputation_score=11}
+User{PIN=802599, user_name='Mike Wright', reputation_score=11}
+User{PIN=231490, user_name='Laura Lee', reputation_score=10}
+User{PIN=597758, user_name='Mark Lee', reputation_score=10}
+User{PIN=153630, user_name='Elizabeth Walker', reputation_score=9}
+User{PIN=561176, user_name='Alan Jackson', reputation_score=9}
+User{PIN=179312, user_name='Grace Nguyen', reputation_score=8}
+User{PIN=226241, user_name='Peter Harris', reputation_score=8}
+User{PIN=356285, user_name='Kevin Walker', reputation_score=8}
+User{PIN=253627, user_name='Mark Torres', reputation_score=7}
+User{PIN=527949, user_name='Elizabeth Garcia', reputation_score=7}
+User{PIN=416030, user_name='Lisa Johnson', reputation_score=6}
+User{PIN=770756, user_name='Sarah Miller', reputation_score=6}
+User{PIN=903231, user_name='Jennifer Nguyen', reputation_score=6}
+User{PIN=989223, user_name='James Perez', reputation_score=6}
+User{PIN=615956, user_name='Mark Jackson', reputation_score=5}
+User{PIN=113462, user_name='Scott Harris', reputation_score=4}
+User{PIN=877973, user_name='Ethan Davis', reputation_score=3}
+User{PIN=230211, user_name='Emily Miller', reputation_score=2}
+User{PIN=239116, user_name='Emily Jackson', reputation_score=2}
+User{PIN=301559, user_name='Megan Jones', reputation_score=0}
+250 users without profiles found.
+
+--------------------------------------------------------------
+
+--------------------------------------------------------------
+***** Task 4: Decrease Reputation for Users Without Profiles *****
+233 user reputations were decreased.
+
+--------------------------------------------------------------
+
+--------------------------------------------------------------
+***** Users Without Profiles to Test 'Task 4: Decrease Reputation for Users Without Profiles' *****
+User{PIN=939324, user_name='Olivia Young', reputation_score=90}
+User{PIN=977914, user_name='Jane Young', reputation_score=90}
+User{PIN=366656, user_name='Susan King', reputation_score=89}
+User{PIN=619026, user_name='Chloe Wilson', reputation_score=89}
+User{PIN=792964, user_name='Megan Moore', reputation_score=89}
+User{PIN=666833, user_name='David Nguyen', reputation_score=88}
+User{PIN=189706, user_name='Megan Anderson', reputation_score=87}
+User{PIN=295772, user_name='Megan Wilson', reputation_score=87}
+User{PIN=267381, user_name='Heather Johnson', reputation_score=86}
+User{PIN=225145, user_name='Ethan Brown', reputation_score=85}
+User{PIN=576320, user_name='Thomas Wilson', reputation_score=85}
+User{PIN=438775, user_name='George Scott', reputation_score=84}
+User{PIN=527979, user_name='Scott Robinson', reputation_score=84}
+User{PIN=200007, user_name='Peter Green', reputation_score=83}
+User{PIN=143587, user_name='Ella Adams', reputation_score=81}
+User{PIN=344896, user_name='Scott Clark', reputation_score=81}
+User{PIN=596226, user_name='Thomas Gonzalez', reputation_score=81}
+User{PIN=817187, user_name='Scott Williams', reputation_score=81}
+User{PIN=872052, user_name='Mike Harris', reputation_score=81}
+User{PIN=376058, user_name='Linda Robinson', reputation_score=80}
+User{PIN=757537, user_name='Mike Brown', reputation_score=80}
+User{PIN=479901, user_name='William Jones', reputation_score=79}
+User{PIN=190442, user_name='Zach Rodriguez', reputation_score=78}
+User{PIN=924734, user_name='Laura Green', reputation_score=78}
+User{PIN=966740, user_name='Alan Baker', reputation_score=78}
+User{PIN=122836, user_name='Chris Anderson', reputation_score=75}
+User{PIN=219022, user_name='Peter Perez', reputation_score=75}
+User{PIN=348302, user_name='Noah White', reputation_score=75}
+User{PIN=132589, user_name='Mark King', reputation_score=74}
+User{PIN=417794, user_name='Thomas Lee', reputation_score=74}
+User{PIN=304061, user_name='Sarah Allen', reputation_score=73}
+User{PIN=760806, user_name='Zach Harris', reputation_score=73}
+User{PIN=103453, user_name='Jennifer Lewis', reputation_score=72}
+User{PIN=807752, user_name='Chloe Anderson', reputation_score=71}
+User{PIN=823718, user_name='Karen Anderson', reputation_score=71}
+User{PIN=112769, user_name='William Lee', reputation_score=70}
+User{PIN=442926, user_name='Olivia Nguyen', reputation_score=68}
+User{PIN=549630, user_name='Daniel Scott', reputation_score=68}
+User{PIN=261979, user_name='Peter Miller', reputation_score=67}
+User{PIN=603049, user_name='Steven Miller', reputation_score=67}
+User{PIN=766895, user_name='Elizabeth Green', reputation_score=66}
+User{PIN=799997, user_name='Kevin Harris', reputation_score=66}
+User{PIN=343830, user_name='Chloe Jackson', reputation_score=65}
+User{PIN=372109, user_name='Jennifer Moore', reputation_score=65}
+User{PIN=682046, user_name='Jane Perez', reputation_score=65}
+User{PIN=340054, user_name='Thomas Jones', reputation_score=64}
+User{PIN=331552, user_name='Kevin Miller', reputation_score=63}
+User{PIN=340856, user_name='Zach Anderson', reputation_score=63}
+User{PIN=691180, user_name='Jason Taylor', reputation_score=63}
+User{PIN=718130, user_name='Jason Williams', reputation_score=63}
+User{PIN=742053, user_name='Rachel Allen', reputation_score=63}
+User{PIN=937895, user_name='Sarah Baker', reputation_score=63}
+User{PIN=182916, user_name='Liam Lee', reputation_score=62}
+User{PIN=987545, user_name='Maria Moore', reputation_score=62}
+User{PIN=324594, user_name='William Davis', reputation_score=60}
+User{PIN=838178, user_name='Sophia Garcia', reputation_score=58}
+User{PIN=153593, user_name='David Johnson', reputation_score=57}
+User{PIN=614080, user_name='Peter Lewis', reputation_score=56}
+User{PIN=637945, user_name='Elizabeth Scott', reputation_score=56}
+User{PIN=676769, user_name='Patrick Nguyen', reputation_score=56}
+User{PIN=347772, user_name='Thomas Baker', reputation_score=55}
+User{PIN=544454, user_name='Lisa Young', reputation_score=55}
+User{PIN=814182, user_name='Patrick Scott', reputation_score=55}
+User{PIN=359925, user_name='James Johnson', reputation_score=54}
+User{PIN=632816, user_name='George White', reputation_score=54}
+User{PIN=658913, user_name='Susan Wilson', reputation_score=54}
+User{PIN=664963, user_name='Kevin Williams', reputation_score=53}
+User{PIN=900911, user_name='Sarah Brown', reputation_score=52}
+User{PIN=159224, user_name='Jane Jones', reputation_score=51}
+User{PIN=213910, user_name='William Taylor', reputation_score=51}
+User{PIN=393055, user_name='Chris Lee', reputation_score=51}
+User{PIN=498347, user_name='Olivia Green', reputation_score=51}
+User{PIN=863077, user_name='Ethan Baker', reputation_score=50}
+User{PIN=300069, user_name='Susan Adams', reputation_score=49}
+User{PIN=318658, user_name='Elizabeth Thomas', reputation_score=49}
+User{PIN=700209, user_name='Jane Hill', reputation_score=49}
+User{PIN=339003, user_name='Kevin Robinson', reputation_score=48}
+User{PIN=658178, user_name='George Johnson', reputation_score=48}
+User{PIN=294129, user_name='Michael Young', reputation_score=47}
+User{PIN=976630, user_name='Linda Gonzalez', reputation_score=47}
+User{PIN=118893, user_name='Zach Thompson', reputation_score=46}
+User{PIN=140822, user_name='Michael Lewis', reputation_score=46}
+User{PIN=359880, user_name='Rachel Wilson', reputation_score=46}
+User{PIN=517605, user_name='Jennifer Williams', reputation_score=45}
+User{PIN=899674, user_name='Susan Perez', reputation_score=45}
+User{PIN=758941, user_name='Zach Davis', reputation_score=44}
+User{PIN=920450, user_name='Liam Martinez', reputation_score=44}
+User{PIN=928888, user_name='Chloe Jones', reputation_score=44}
+User{PIN=148687, user_name='Susan Johnson', reputation_score=43}
+User{PIN=394565, user_name='Robert Green', reputation_score=43}
+User{PIN=687065, user_name='Alan Torres', reputation_score=43}
+User{PIN=154318, user_name='Lisa Torres', reputation_score=42}
+User{PIN=199228, user_name='Mike Anderson', reputation_score=42}
+User{PIN=326396, user_name='Chloe Young', reputation_score=42}
+User{PIN=344190, user_name='Michael Adams', reputation_score=42}
+User{PIN=402563, user_name='Ella Hill', reputation_score=42}
+User{PIN=750487, user_name='John Perez', reputation_score=42}
+User{PIN=896702, user_name='Chris Brown', reputation_score=42}
+User{PIN=444238, user_name='Susan Torres', reputation_score=41}
+User{PIN=471604, user_name='Emily Jones', reputation_score=41}
+User{PIN=647948, user_name='Elizabeth Johnson', reputation_score=41}
+User{PIN=800234, user_name='Chris Wright', reputation_score=40}
+User{PIN=115447, user_name='Rachel Davis', reputation_score=39}
+User{PIN=268827, user_name='Tim Baker', reputation_score=39}
+User{PIN=443321, user_name='Daniel Adams', reputation_score=39}
+User{PIN=605608, user_name='Jason Brown', reputation_score=39}
+User{PIN=663478, user_name='Michael Martin', reputation_score=39}
+User{PIN=175415, user_name='Steven Smith', reputation_score=38}
+User{PIN=346319, user_name='Jason Davis', reputation_score=38}
+User{PIN=379590, user_name='Peter Jones', reputation_score=38}
+User{PIN=852760, user_name='Kevin Moore', reputation_score=38}
+User{PIN=415044, user_name='Michael Scott', reputation_score=37}
+User{PIN=438492, user_name='Chris Allen', reputation_score=37}
+User{PIN=628313, user_name='James Anderson', reputation_score=37}
+User{PIN=710644, user_name='James Jones', reputation_score=37}
+User{PIN=712793, user_name='Elizabeth Rodriguez', reputation_score=36}
+User{PIN=744044, user_name='Ethan Green', reputation_score=36}
+User{PIN=374762, user_name='Linda Hill', reputation_score=35}
+User{PIN=431054, user_name='Peter Torres', reputation_score=35}
+User{PIN=276711, user_name='Jennifer King', reputation_score=34}
+User{PIN=302267, user_name='Chloe Lee', reputation_score=34}
+User{PIN=558727, user_name='Hannah Martinez', reputation_score=34}
+User{PIN=458580, user_name='Jennifer Walker', reputation_score=33}
+User{PIN=569598, user_name='Robert Torres', reputation_score=33}
+User{PIN=590707, user_name='William Baker', reputation_score=33}
+User{PIN=848747, user_name='Michael Robinson', reputation_score=33}
+User{PIN=859180, user_name='Noah Allen', reputation_score=33}
+User{PIN=284373, user_name='Susan Rodriguez', reputation_score=31}
+User{PIN=408435, user_name='Ethan Taylor', reputation_score=31}
+User{PIN=466131, user_name='Emma Moore', reputation_score=31}
+User{PIN=752788, user_name='Angela Wright', reputation_score=31}
+User{PIN=850338, user_name='Laura Clark', reputation_score=31}
+User{PIN=916170, user_name='Kevin Thompson', reputation_score=31}
+User{PIN=937385, user_name='Alan Gonzalez', reputation_score=31}
+User{PIN=636675, user_name='Mark White', reputation_score=30}
+User{PIN=795295, user_name='Tim Lewis', reputation_score=30}
+User{PIN=850187, user_name='Emma Martinez', reputation_score=30}
+User{PIN=498276, user_name='Liam Thompson', reputation_score=29}
+User{PIN=574912, user_name='Grace Clark', reputation_score=29}
+User{PIN=771588, user_name='Olivia Adams', reputation_score=29}
+User{PIN=860592, user_name='Maria Lewis', reputation_score=29}
+User{PIN=952569, user_name='Kevin Brown', reputation_score=29}
+User{PIN=366731, user_name='Scott Torres', reputation_score=28}
+User{PIN=643405, user_name='Jason Garcia', reputation_score=28}
+User{PIN=901167, user_name='Mike Adams', reputation_score=28}
+User{PIN=140974, user_name='Chris Martin', reputation_score=27}
+User{PIN=194024, user_name='Emma Thompson', reputation_score=27}
+User{PIN=875250, user_name='Liam Anderson', reputation_score=27}
+User{PIN=914850, user_name='Tim Moore', reputation_score=27}
+User{PIN=332566, user_name='Robert Harris', reputation_score=26}
+User{PIN=340571, user_name='Heather Lee', reputation_score=26}
+User{PIN=169226, user_name='Tim Adams', reputation_score=25}
+User{PIN=171885, user_name='Ella Brown', reputation_score=25}
+User{PIN=386555, user_name='Olivia Allen', reputation_score=25}
+User{PIN=640356, user_name='Liam White', reputation_score=25}
+User{PIN=984920, user_name='Liam Lewis', reputation_score=25}
+User{PIN=521357, user_name='Jennifer Thompson', reputation_score=24}
+User{PIN=592693, user_name='Tim Jones', reputation_score=24}
+User{PIN=907584, user_name='Peter Baker', reputation_score=24}
+User{PIN=149560, user_name='Olivia Martinez', reputation_score=23}
+User{PIN=261413, user_name='Mike Young', reputation_score=23}
+User{PIN=488571, user_name='Emily Rodriguez', reputation_score=23}
+User{PIN=799373, user_name='Zach Perez', reputation_score=23}
+User{PIN=814213, user_name='Sophia Perez', reputation_score=23}
+User{PIN=937422, user_name='Jane Anderson', reputation_score=23}
+User{PIN=423470, user_name='David Scott', reputation_score=22}
+User{PIN=696162, user_name='James Smith', reputation_score=22}
+User{PIN=917277, user_name='Noah King', reputation_score=22}
+User{PIN=297505, user_name='Ethan Torres', reputation_score=20}
+User{PIN=554575, user_name='Sarah Garcia', reputation_score=20}
+User{PIN=606106, user_name='Susan Green', reputation_score=19}
+User{PIN=665865, user_name='Emily Thompson', reputation_score=19}
+User{PIN=713152, user_name='Mike Perez', reputation_score=19}
+User{PIN=800566, user_name='Mike Lewis', reputation_score=19}
+User{PIN=855079, user_name='Peter Taylor', reputation_score=19}
+User{PIN=991191, user_name='Daniel Smith', reputation_score=19}
+User{PIN=467593, user_name='Olivia Gonzalez', reputation_score=18}
+User{PIN=467608, user_name='Susan Martinez', reputation_score=18}
+User{PIN=699181, user_name='John Smith', reputation_score=18}
+User{PIN=549618, user_name='Susan Scott', reputation_score=17}
+User{PIN=555230, user_name='Sarah Johnson', reputation_score=17}
+User{PIN=151546, user_name='Sarah Taylor', reputation_score=16}
+User{PIN=420693, user_name='Lisa Martinez', reputation_score=16}
+User{PIN=777773, user_name='Ella Young', reputation_score=16}
+User{PIN=780604, user_name='David Young', reputation_score=16}
+User{PIN=482651, user_name='James Davis', reputation_score=15}
+User{PIN=830021, user_name='Steven King', reputation_score=15}
+User{PIN=215535, user_name='Laura Brown', reputation_score=14}
+User{PIN=892758, user_name='Emily Hill', reputation_score=14}
+User{PIN=978952, user_name='Susan Young', reputation_score=14}
+User{PIN=507078, user_name='Jane Wright', reputation_score=13}
+User{PIN=694211, user_name='Jane Martin', reputation_score=13}
+User{PIN=774550, user_name='Rachel Jones', reputation_score=13}
+User{PIN=969725, user_name='Robert Scott', reputation_score=12}
+User{PIN=759134, user_name='Daniel Johnson', reputation_score=11}
+User{PIN=781650, user_name='Heather King', reputation_score=11}
+User{PIN=230287, user_name='Amy Perez', reputation_score=10}
+User{PIN=391339, user_name='Patrick Thomas', reputation_score=10}
+User{PIN=554778, user_name='Jane Baker', reputation_score=10}
+User{PIN=818301, user_name='Steven Adams', reputation_score=10}
+User{PIN=130276, user_name='Angela Torres', reputation_score=9}
+User{PIN=153630, user_name='Elizabeth Walker', reputation_score=9}
+User{PIN=561176, user_name='Alan Jackson', reputation_score=9}
+User{PIN=819782, user_name='Angela Miller', reputation_score=9}
+User{PIN=114522, user_name='Sophia Lewis', reputation_score=8}
+User{PIN=179312, user_name='Grace Nguyen', reputation_score=8}
+User{PIN=226241, user_name='Peter Harris', reputation_score=8}
+User{PIN=288697, user_name='Angela Brown', reputation_score=8}
+User{PIN=356285, user_name='Kevin Walker', reputation_score=8}
+User{PIN=750844, user_name='Karen Lewis', reputation_score=8}
+User{PIN=827734, user_name='William Thomas', reputation_score=8}
+User{PIN=253627, user_name='Mark Torres', reputation_score=7}
+User{PIN=260615, user_name='David Thompson', reputation_score=7}
+User{PIN=306683, user_name='Heather Wright', reputation_score=7}
+User{PIN=441614, user_name='Ethan Gonzalez', reputation_score=7}
+User{PIN=527949, user_name='Elizabeth Garcia', reputation_score=7}
+User{PIN=879341, user_name='Grace Thomas', reputation_score=7}
+User{PIN=942361, user_name='Karen Robinson', reputation_score=7}
+User{PIN=119561, user_name='Ethan Smith', reputation_score=6}
+User{PIN=279149, user_name='Karen Clark', reputation_score=6}
+User{PIN=334920, user_name='Alan Thomas', reputation_score=6}
+User{PIN=416030, user_name='Lisa Johnson', reputation_score=6}
+User{PIN=770756, user_name='Sarah Miller', reputation_score=6}
+User{PIN=903231, user_name='Jennifer Nguyen', reputation_score=6}
+User{PIN=989223, user_name='James Perez', reputation_score=6}
+User{PIN=335663, user_name='Noah Robinson', reputation_score=5}
+User{PIN=615956, user_name='Mark Jackson', reputation_score=5}
+User{PIN=876986, user_name='Hannah Adams', reputation_score=5}
+User{PIN=907286, user_name='Karen Thomas', reputation_score=5}
+User{PIN=113462, user_name='Scott Harris', reputation_score=4}
+User{PIN=205489, user_name='Karen Jackson', reputation_score=4}
+User{PIN=494507, user_name='Lisa Wright', reputation_score=4}
+User{PIN=877973, user_name='Ethan Davis', reputation_score=3}
+User{PIN=995129, user_name='Sophia Harris', reputation_score=3}
+User{PIN=205554, user_name='Lisa Rodriguez', reputation_score=2}
+User{PIN=230211, user_name='Emily Miller', reputation_score=2}
+User{PIN=239116, user_name='Emily Jackson', reputation_score=2}
+User{PIN=518195, user_name='Linda White', reputation_score=2}
+User{PIN=750047, user_name='Thomas Rodriguez', reputation_score=2}
+User{PIN=837544, user_name='Robert Lee', reputation_score=2}
+User{PIN=100879, user_name='Grace Harris', reputation_score=1}
+User{PIN=144659, user_name='Sophia Miller', reputation_score=1}
+User{PIN=348233, user_name='Mark Rodriguez', reputation_score=1}
+User{PIN=463521, user_name='George Garcia', reputation_score=1}
+User{PIN=622394, user_name='Lisa Brown', reputation_score=1}
+User{PIN=793446, user_name='Hannah Davis', reputation_score=1}
+User{PIN=802599, user_name='Mike Wright', reputation_score=1}
+User{PIN=231490, user_name='Laura Lee', reputation_score=0}
+User{PIN=301559, user_name='Megan Jones', reputation_score=0}
+User{PIN=597758, user_name='Mark Lee', reputation_score=0}
+250 users without profiles found.
+
+--------------------------------------------------------------
+
+--------------------------------------------------------------
+***** Task 5: Users With Specific Bio Keywords *****
+UserPINNameReputationBio{PIN=146281, user_name='Jason Harris', reputation_score=22, bio='Graphics student.'}
+UserPINNameReputationBio{PIN=180187, user_name='Michael Thompson', reputation_score=71, bio='Ontology engineer.'}
+UserPINNameReputationBio{PIN=251787, user_name='Mike Clark', reputation_score=34, bio='VP Engineering.'}
+UserPINNameReputationBio{PIN=318073, user_name='Steven Lewis', reputation_score=89, bio='OS student.'}
+UserPINNameReputationBio{PIN=411085, user_name='Brian Green', reputation_score=61, bio='Graduate student in CENG.'}
+UserPINNameReputationBio{PIN=511228, user_name='Rachel Anderson', reputation_score=32, bio='DevOps engineer.'}
+UserPINNameReputationBio{PIN=565766, user_name='Alan Jones', reputation_score=32, bio='QA Engineer.'}
+UserPINNameReputationBio{PIN=621636, user_name='Karen Green', reputation_score=47, bio='RecSys engineer.'}
+UserPINNameReputationBio{PIN=689093, user_name='Emily Perez', reputation_score=98, bio='Data pipeline engineer.'}
+UserPINNameReputationBio{PIN=801028, user_name='Emily Lee', reputation_score=57, bio='Student.'}
+UserPINNameReputationBio{PIN=849046, user_name='Mark Harris', reputation_score=12, bio='Machine learning engineer.'}
+UserPINNameReputationBio{PIN=892048, user_name='Emily Davis', reputation_score=73, bio='Software Engineer | Cloud.'}
+UserPINNameReputationBio{PIN=913987, user_name='Peter Wright', reputation_score=99, bio='Acoustic engineer.'}
+UserPINNameReputationBio{PIN=996127, user_name='Lisa Garcia', reputation_score=25, bio='Chief Scientist.'}
+14 users with matching bio keywords found.
+
+--------------------------------------------------------------
+
+--------------------------------------------------------------
+***** Task 6: Organizations With No Released Models and Low Rating *****
+Organization{OrgID=9901, org_name='Vision Cognitive Computing Research Center', rating=0.95}
+Organization{OrgID=9806, org_name='Advanced Cognitive Computing Research Center', rating=1.73}
+Organization{OrgID=9759, org_name='NextGen AI Research Center', rating=2.34}
+Organization{OrgID=9711, org_name='Pioneer Data Science Research Center', rating=1.96}
+Organization{OrgID=9664, org_name='Ultra Machine Learning Innovation Hub', rating=1.64}
+Organization{OrgID=9507, org_name='Vision Deep Learning Institute', rating=2.25}
+Organization{OrgID=9450, org_name='Pioneer Cognitive Computing Institute', rating=2.14}
+Organization{OrgID=9439, org_name='Future Cognitive Computing Innovation Hub', rating=0.99}
+Organization{OrgID=9310, org_name='Prime Data Science Technologies', rating=1.10}
+Organization{OrgID=9218, org_name='Advanced AI Technologies', rating=0.08}
+Organization{OrgID=9138, org_name='Advanced Deep Learning Institute', rating=1.36}
+Organization{OrgID=9116, org_name='Prime Neural Systems Institute', rating=1.72}
+Organization{OrgID=9114, org_name='Pioneer Cognitive Computing Lab', rating=1.01}
+Organization{OrgID=9038, org_name='Advanced Cognitive Computing Solutions', rating=0.97}
+Organization{OrgID=8964, org_name='NextGen Neural Systems Technologies', rating=1.44}
+Organization{OrgID=8945, org_name='Vision Cognitive Computing Research Center', rating=0.43}
+Organization{OrgID=8942, org_name='Prime Machine Learning Research Center', rating=2.18}
+Organization{OrgID=8920, org_name='Pioneer Neural Systems Lab', rating=2.45}
+Organization{OrgID=8817, org_name='Future Cognitive Computing Innovation Hub', rating=1.78}
+Organization{OrgID=8705, org_name='Advanced Cognitive Computing Institute', rating=1.85}
+Organization{OrgID=8654, org_name='Prime Deep Learning Research Center', rating=2.26}
+Organization{OrgID=8619, org_name='Ultra Deep Learning Technologies', rating=2.13}
+Organization{OrgID=8528, org_name='Ultra AI Research Center', rating=0.93}
+Organization{OrgID=8508, org_name='Future Machine Learning Technologies', rating=0.21}
+Organization{OrgID=8390, org_name='Ultra Cognitive Computing Technologies', rating=1.16}
+Organization{OrgID=8363, org_name='NextGen Cognitive Computing Lab', rating=0.08}
+Organization{OrgID=8277, org_name='Quantum Machine Learning Technologies', rating=0.29}
+Organization{OrgID=8193, org_name='Future Data Science Innovation Hub', rating=0.56}
+Organization{OrgID=8186, org_name='Vision Machine Learning Innovation Hub', rating=0.29}
+Organization{OrgID=8175, org_name='Ultra Machine Learning Solutions', rating=1.26}
+Organization{OrgID=8138, org_name='Quantum Cognitive Computing Lab', rating=1.09}
+Organization{OrgID=8066, org_name='Pioneer Data Science Institute', rating=0.49}
+Organization{OrgID=8018, org_name='Quantum Machine Learning Institute', rating=0.27}
+Organization{OrgID=8000, org_name='Pioneer Deep Learning Solutions', rating=1.14}
+Organization{OrgID=7994, org_name='Prime AI Innovation Hub', rating=2.47}
+Organization{OrgID=7865, org_name='Global Cognitive Computing Technologies', rating=0.29}
+Organization{OrgID=7861, org_name='Future Cognitive Computing Technologies', rating=2.06}
+Organization{OrgID=7763, org_name='Pioneer Deep Learning Solutions', rating=2.47}
+Organization{OrgID=7660, org_name='Pioneer AI Lab', rating=2.11}
+Organization{OrgID=7563, org_name='Prime AI Innovation Hub', rating=0.31}
+Organization{OrgID=7539, org_name='Quantum Neural Systems Lab', rating=0.85}
+Organization{OrgID=7524, org_name='Global Cognitive Computing Lab', rating=1.88}
+Organization{OrgID=7324, org_name='Vision Deep Learning Research Center', rating=2.29}
+Organization{OrgID=7203, org_name='NextGen Deep Learning Innovation Hub', rating=1.95}
+Organization{OrgID=7054, org_name='Quantum Cognitive Computing Institute', rating=0.40}
+Organization{OrgID=7050, org_name='Pioneer Cognitive Computing Innovation Hub', rating=1.98}
+Organization{OrgID=6998, org_name='Ultra AI Technologies', rating=1.96}
+Organization{OrgID=6984, org_name='Pioneer Cognitive Computing Technologies', rating=0.13}
+Organization{OrgID=6971, org_name='Quantum Machine Learning Lab', rating=0.43}
+Organization{OrgID=6931, org_name='Future Machine Learning Lab', rating=1.13}
+Organization{OrgID=6872, org_name='Digital Machine Learning Innovation Hub', rating=2.33}
+Organization{OrgID=6856, org_name='Quantum Neural Systems Solutions', rating=1.35}
+Organization{OrgID=6595, org_name='Pioneer AI Technologies', rating=2.37}
+Organization{OrgID=6575, org_name='Quantum Neural Systems Research Center', rating=1.71}
+Organization{OrgID=6498, org_name='Quantum Data Science Solutions', rating=1.30}
+Organization{OrgID=6350, org_name='Vision Deep Learning Technologies', rating=1.71}
+Organization{OrgID=6344, org_name='Prime Deep Learning Technologies', rating=1.59}
+Organization{OrgID=6340, org_name='Future Deep Learning Technologies', rating=0.76}
+Organization{OrgID=6196, org_name='Vision Deep Learning Lab', rating=1.84}
+Organization{OrgID=6018, org_name='Prime Neural Systems Research Center', rating=0.42}
+Organization{OrgID=6001, org_name='Pioneer AI Innovation Hub', rating=2.32}
+Organization{OrgID=5945, org_name='Advanced Deep Learning Research Center', rating=1.28}
+Organization{OrgID=5916, org_name='NextGen AI Research Center', rating=1.82}
+Organization{OrgID=5912, org_name='Future Neural Systems Lab', rating=0.45}
+Organization{OrgID=5827, org_name='Quantum Data Science Research Center', rating=0.38}
+Organization{OrgID=5755, org_name='Ultra Data Science Lab', rating=1.38}
+Organization{OrgID=5691, org_name='Vision AI Lab', rating=1.16}
+Organization{OrgID=5563, org_name='Quantum Data Science Research Center', rating=0.59}
+Organization{OrgID=5496, org_name='Future Deep Learning Institute', rating=0.26}
+Organization{OrgID=5358, org_name='Future Cognitive Computing Technologies', rating=0.68}
+Organization{OrgID=4999, org_name='Digital Machine Learning Solutions', rating=0.36}
+Organization{OrgID=4982, org_name='Prime AI Innovation Hub', rating=1.21}
+Organization{OrgID=4917, org_name='Digital Data Science Institute', rating=1.80}
+Organization{OrgID=4881, org_name='Global Cognitive Computing Solutions', rating=1.11}
+Organization{OrgID=4821, org_name='Future Machine Learning Lab', rating=0.68}
+Organization{OrgID=4758, org_name='Future Deep Learning Solutions', rating=0.25}
+Organization{OrgID=4658, org_name='Advanced Cognitive Computing Solutions', rating=0.27}
+Organization{OrgID=4635, org_name='Future Neural Systems Technologies', rating=1.18}
+Organization{OrgID=4612, org_name='Future Deep Learning Lab', rating=1.14}
+Organization{OrgID=4432, org_name='Future Cognitive Computing Research Center', rating=1.62}
+Organization{OrgID=4420, org_name='Vision Neural Systems Technologies', rating=2.38}
+Organization{OrgID=4204, org_name='Advanced Neural Systems Lab', rating=0.39}
+Organization{OrgID=3723, org_name='Vision Data Science Institute', rating=1.04}
+Organization{OrgID=3613, org_name='Prime Deep Learning Research Center', rating=0.01}
+Organization{OrgID=3607, org_name='Future AI Institute', rating=0.69}
+Organization{OrgID=3587, org_name='Global Neural Systems Research Center', rating=0.87}
+Organization{OrgID=3420, org_name='Quantum Cognitive Computing Solutions', rating=0.97}
+Organization{OrgID=3275, org_name='Advanced Neural Systems Lab', rating=0.07}
+Organization{OrgID=3257, org_name='Ultra AI Lab', rating=2.36}
+Organization{OrgID=3227, org_name='Future Deep Learning Technologies', rating=1.38}
+Organization{OrgID=3200, org_name='Pioneer Deep Learning Research Center', rating=1.91}
+Organization{OrgID=2980, org_name='Digital Cognitive Computing Research Center', rating=1.60}
+Organization{OrgID=2894, org_name='Perplexity AI', rating=0.21}
+Organization{OrgID=2864, org_name='PapersWithCode', rating=1.73}
+Organization{OrgID=2749, org_name='Anyscale', rating=1.52}
+Organization{OrgID=2659, org_name='LatticeFlow AI', rating=1.39}
+Organization{OrgID=2657, org_name='TwentyBN', rating=0.29}
+Organization{OrgID=2642, org_name='LightOn AI', rating=1.94}
+Organization{OrgID=2617, org_name='Aleph Alpha', rating=1.34}
+Organization{OrgID=2525, org_name='Horizon Robotics', rating=2.42}
+Organization{OrgID=2519, org_name='ChatGPT Research (OpenAI)', rating=0.78}
+Organization{OrgID=2507, org_name='Sonnet AI', rating=1.63}
+Organization{OrgID=2272, org_name='Graphcore Research', rating=2.38}
+Organization{OrgID=2133, org_name='Lambda Labs', rating=0.49}
+Organization{OrgID=2130, org_name='xAI', rating=0.64}
+Organization{OrgID=2002, org_name='EleutherAI', rating=2.36}
+Organization{OrgID=1983, org_name='Tesla AI', rating=0.63}
+Organization{OrgID=1977, org_name='JPMorgan AI Research', rating=0.46}
+Organization{OrgID=1837, org_name='Qualcomm AI', rating=2.23}
+Organization{OrgID=1820, org_name='Samsung Research', rating=1.93}
+Organization{OrgID=1816, org_name='Intel AI Lab', rating=0.70}
+Organization{OrgID=1794, org_name='Alibaba DAMO Academy', rating=1.04}
+Organization{OrgID=1779, org_name='Baidu Research', rating=1.43}
+Organization{OrgID=1748, org_name='Tencent AI Lab', rating=2.44}
+Organization{OrgID=1623, org_name='Cohere AI', rating=2.10}
+Organization{OrgID=1460, org_name='IBM Research', rating=0.02}
+Organization{OrgID=1449, org_name='Amazon AI', rating=0.19}
+Organization{OrgID=1404, org_name='NVIDIA Research', rating=2.37}
+118 organizations with no released models and low rating were found.
+
+--------------------------------------------------------------
+
+--------------------------------------------------------------
+***** Task 7: Delete Organizations With No Released Models and Low Rating *****
+118 organizations with no released models and low rating were deleted.
+
+--------------------------------------------------------------
+
+--------------------------------------------------------------
+***** Organizations With No Released Models and Low Rating to Test 'Task 7: Delete Organizations With No Released Models and Low Rating' *****
+No organizations with no released models and low rating were found.
+
+--------------------------------------------------------------
+
+--------------------------------------------------------------
+***** Task 8: Models and Their Primary Task Information *****
+ModelPrimaryTaskInfo{ModelID=5001, model_name='CodeBERT', primary_task_name='Vulnerability Detection', primary_task_count=1}
+ModelPrimaryTaskInfo{ModelID=5002, model_name='GraphCodeBERT', primary_task_name='Code Understanding', primary_task_count=1}
+ModelPrimaryTaskInfo{ModelID=5003, model_name='DeepSeekCoder-1.3B', primary_task_name='Vulnerability Detection', primary_task_count=1}
+ModelPrimaryTaskInfo{ModelID=5004, model_name='DeepSeekCoder-6.7B', primary_task_name='Vulnerability Detection', primary_task_count=1}
+ModelPrimaryTaskInfo{ModelID=5005, model_name='StarCoder2-3B', primary_task_name='Code Understanding', primary_task_count=1}
+ModelPrimaryTaskInfo{ModelID=5006, model_name='StarCoder2-15B', primary_task_name='Code Understanding', primary_task_count=1}
+ModelPrimaryTaskInfo{ModelID=5007, model_name='CodeLlama-7B', primary_task_name='Code Understanding', primary_task_count=1}
+ModelPrimaryTaskInfo{ModelID=5008, model_name='CodeLlama-13B', primary_task_name='Code Understanding', primary_task_count=1}
+ModelPrimaryTaskInfo{ModelID=5009, model_name='CodeLlama-34B', primary_task_name='Code Understanding', primary_task_count=1}
+ModelPrimaryTaskInfo{ModelID=5010, model_name='Qwen2.5-Coder-1.5B', primary_task_name='Vulnerability Detection', primary_task_count=1}
+ModelPrimaryTaskInfo{ModelID=5011, model_name='Qwen2.5-Coder-7B', primary_task_name='Vulnerability Detection', primary_task_count=1}
+ModelPrimaryTaskInfo{ModelID=5012, model_name='GPT-4o-Mini', primary_task_name='Question Answering', primary_task_count=1}
+ModelPrimaryTaskInfo{ModelID=5013, model_name='GPT-4o', primary_task_name='Question Answering', primary_task_count=1}
+ModelPrimaryTaskInfo{ModelID=5014, model_name='Gemini-2.0-Pro', primary_task_name='Question Answering', primary_task_count=1}
+ModelPrimaryTaskInfo{ModelID=5015, model_name='Gemini-2.0-Ultra', primary_task_name='Question Answering', primary_task_count=1}
+ModelPrimaryTaskInfo{ModelID=5016, model_name='Claude-3.5-Sonnet', primary_task_name='Question Answering', primary_task_count=1}
+ModelPrimaryTaskInfo{ModelID=5017, model_name='Claude-3.5-Opus', primary_task_name='Question Answering', primary_task_count=1}
+ModelPrimaryTaskInfo{ModelID=5018, model_name='Llama3-8B', primary_task_name='Question Answering', primary_task_count=1}
+ModelPrimaryTaskInfo{ModelID=5019, model_name='Llama3-70B', primary_task_name='Language Modeling', primary_task_count=1}
+ModelPrimaryTaskInfo{ModelID=5020, model_name='Mistral-7B', primary_task_name='Language Modeling', primary_task_count=1}
+ModelPrimaryTaskInfo{ModelID=5021, model_name='Mixtral-8x7B', primary_task_name='Language Modeling', primary_task_count=1}
+ModelPrimaryTaskInfo{ModelID=5022, model_name='StableDiffusion-XL', primary_task_name='Image Classification', primary_task_count=1}
+ModelPrimaryTaskInfo{ModelID=5023, model_name='StableDiffusion-2.1', primary_task_name='Image Classification', primary_task_count=1}
+ModelPrimaryTaskInfo{ModelID=5024, model_name='Whisper-Large-V3', primary_task_name='Speech Recognition', primary_task_count=1}
+ModelPrimaryTaskInfo{ModelID=5025, model_name='Whisper-Small', primary_task_name='Speech Recognition', primary_task_count=1}
+ModelPrimaryTaskInfo{ModelID=5026, model_name='ResNet50', primary_task_name='Image Classification', primary_task_count=1}
+ModelPrimaryTaskInfo{ModelID=5027, model_name='EfficientNet-B7', primary_task_name='Image Classification', primary_task_count=1}
+ModelPrimaryTaskInfo{ModelID=5028, model_name='ViT-B16', primary_task_name='Image Classification', primary_task_count=1}
+ModelPrimaryTaskInfo{ModelID=5029, model_name='MobileNetV3-Large', primary_task_name='Image Classification', primary_task_count=1}
+ModelPrimaryTaskInfo{ModelID=5030, model_name='YOLOv8-Large', primary_task_name='Object Detection', primary_task_count=1}
+ModelPrimaryTaskInfo{ModelID=5031, model_name='YOLOv11-Nano', primary_task_name='Object Detection', primary_task_count=1}
+ModelPrimaryTaskInfo{ModelID=5032, model_name='BERT-Base', primary_task_name='Text Classification', primary_task_count=1}
+ModelPrimaryTaskInfo{ModelID=5033, model_name='RoBERTa-Large', primary_task_name='Text Classification', primary_task_count=1}
+ModelPrimaryTaskInfo{ModelID=5034, model_name='DeBERTaV3-Large', primary_task_name='Text Classification', primary_task_count=1}
+ModelPrimaryTaskInfo{ModelID=5035, model_name='T5-Large', primary_task_name='Text Summarization', primary_task_count=1}
+ModelPrimaryTaskInfo{ModelID=5036, model_name='T5-3B', primary_task_name='Text Summarization', primary_task_count=1}
+ModelPrimaryTaskInfo{ModelID=5037, model_name='XGBoost-Classifier', primary_task_name='Anomaly Detection', primary_task_count=1}
+ModelPrimaryTaskInfo{ModelID=5038, model_name='LightGBM-Ranker', primary_task_name='Anomaly Detection', primary_task_count=1}
+ModelPrimaryTaskInfo{ModelID=5039, model_name='CatBoost-Regressor', primary_task_name='Anomaly Detection', primary_task_count=1}
+ModelPrimaryTaskInfo{ModelID=5040, model_name='SVM-RBF-Model', primary_task_name='Anomaly Detection', primary_task_count=1}
+ModelPrimaryTaskInfo{ModelID=5041, model_name='RandomForest-Classifier', primary_task_name='Anomaly Detection', primary_task_count=1}
+ModelPrimaryTaskInfo{ModelID=5042, model_name='GradientBoost-Classifier', primary_task_name='Anomaly Detection', primary_task_count=1}
+ModelPrimaryTaskInfo{ModelID=5043, model_name='NeuralProphet-v1', primary_task_name='Time Series Forecasting', primary_task_count=1}
+ModelPrimaryTaskInfo{ModelID=5044, model_name='Prophet-v1', primary_task_name='Time Series Forecasting', primary_task_count=1}
+ModelPrimaryTaskInfo{ModelID=5045, model_name='Tacotron2-TTS', primary_task_name='Speech Recognition', primary_task_count=1}
+ModelPrimaryTaskInfo{ModelID=5046, model_name='Wav2Vec2-Large', primary_task_name='Speech Recognition', primary_task_count=1}
+ModelPrimaryTaskInfo{ModelID=5047, model_name='SentenceBERT-MPNet', primary_task_name='Named Entity Recognition', primary_task_count=1}
+ModelPrimaryTaskInfo{ModelID=5048, model_name='CodeBERT-Finetuned-VulnScan', primary_task_name='Vulnerability Detection', primary_task_count=1}
+ModelPrimaryTaskInfo{ModelID=5049, model_name='DeepSeek-VulnDetector-7B', primary_task_name='Vulnerability Detection', primary_task_count=1}
+ModelPrimaryTaskInfo{ModelID=5050, model_name='Qwen-VulnScan-1.5B', primary_task_name='Vulnerability Detection', primary_task_count=1}
+50 models retrieved with primary task information.
+
+--------------------------------------------------------------
+
+--------------------------------------------------------------
+***** Task 9: User Popularity Score *****
+UserPopularityInfo{PIN=178427, user_name='Noah Adams', popularity_score=8}
+UserPopularityInfo{PIN=237927, user_name='George Martin', popularity_score=8}
+UserPopularityInfo{PIN=397508, user_name='Thomas Johnson', popularity_score=6}
+UserPopularityInfo{PIN=526827, user_name='Emma Martin', popularity_score=6}
+UserPopularityInfo{PIN=102983, user_name='Jane Brown', popularity_score=5}
+UserPopularityInfo{PIN=151167, user_name='Sophia Walker', popularity_score=5}
+UserPopularityInfo{PIN=333589, user_name='John Torres', popularity_score=5}
+UserPopularityInfo{PIN=470215, user_name='Tim Jackson', popularity_score=5}
+UserPopularityInfo{PIN=630465, user_name='Maria Nguyen', popularity_score=5}
+UserPopularityInfo{PIN=667426, user_name='Mike Allen', popularity_score=4}
+UserPopularityInfo{PIN=830293, user_name='Patrick Green', popularity_score=4}
+UserPopularityInfo{PIN=382044, user_name='James Walker', popularity_score=3}
+UserPopularityInfo{PIN=421663, user_name='Amy Torres', popularity_score=3}
+UserPopularityInfo{PIN=143426, user_name='Grace King', popularity_score=2}
+UserPopularityInfo{PIN=282269, user_name='Steven Baker', popularity_score=2}
+UserPopularityInfo{PIN=283986, user_name='Grace Wilson', popularity_score=2}
+UserPopularityInfo{PIN=353910, user_name='Robert Martin', popularity_score=2}
+UserPopularityInfo{PIN=582112, user_name='Kevin Taylor', popularity_score=2}
+UserPopularityInfo{PIN=779760, user_name='Zach Gonzalez', popularity_score=2}
+UserPopularityInfo{PIN=788351, user_name='Angela Martin', popularity_score=2}
+20 users retrieved with popularity score.
+
+--------------------------------------------------------------
+
+--------------------------------------------------------------
+***** Task 10: Comprehensive Model Information *****
+ComprehensiveModelInfo{ModelID=5001, model_name='CodeBERT', org_name='Google Research', license='Apache-2.0', size='0.4B', primary_task_name='Vulnerability Detection', total_number_of_versions=3, latest_version_no='3.0', latest_version_date='2025-08-20'}
+ComprehensiveModelInfo{ModelID=5002, model_name='GraphCodeBERT', org_name='Microsoft Research', license='MIT', size='0.42B', primary_task_name='Code Understanding', total_number_of_versions=4, latest_version_no='4.0', latest_version_date='2025-05-11'}
+ComprehensiveModelInfo{ModelID=5003, model_name='DeepSeekCoder-1.3B', org_name='DeepSeek AI', license='Apache-2.0', size='1.3B', primary_task_name='Vulnerability Detection', total_number_of_versions=1, latest_version_no='1.0', latest_version_date='2021-11-07'}
+ComprehensiveModelInfo{ModelID=5004, model_name='DeepSeekCoder-6.7B', org_name='DeepSeek AI', license='Apache-2.0', size='6.7B', primary_task_name='Vulnerability Detection', total_number_of_versions=4, latest_version_no='4.0', latest_version_date='2025-07-24'}
+ComprehensiveModelInfo{ModelID=5005, model_name='StarCoder2-3B', org_name='OpenMined', license='BigCode-OpenRAIL-M', size='3B', primary_task_name='Code Understanding', total_number_of_versions=2, latest_version_no='2.0', latest_version_date='2024-10-11'}
+ComprehensiveModelInfo{ModelID=5006, model_name='StarCoder2-15B', org_name='OpenMined', license='BigCode-OpenRAIL-M', size='15B', primary_task_name='Code Understanding', total_number_of_versions=2, latest_version_no='2.0', latest_version_date='2024-07-15'}
+ComprehensiveModelInfo{ModelID=5007, model_name='CodeLlama-7B', org_name='Meta AI', license='Meta-LLama', size='7B', primary_task_name='Code Understanding', total_number_of_versions=1, latest_version_no='1.0', latest_version_date='2022-11-23'}
+ComprehensiveModelInfo{ModelID=5008, model_name='CodeLlama-13B', org_name='Meta AI', license='Meta-LLama', size='13B', primary_task_name='Code Understanding', total_number_of_versions=2, latest_version_no='2.0', latest_version_date='2025-12-06'}
+ComprehensiveModelInfo{ModelID=5009, model_name='CodeLlama-34B', org_name='Meta AI', license='Meta-LLama', size='34B', primary_task_name='Code Understanding', total_number_of_versions=5, latest_version_no='5.0', latest_version_date='2025-11-14'}
+ComprehensiveModelInfo{ModelID=5010, model_name='Qwen2.5-Coder-1.5B', org_name='Qwen Team (Alibaba)', license='Apache-2.0', size='1.5B', primary_task_name='Vulnerability Detection', total_number_of_versions=4, latest_version_no='4.0', latest_version_date='2024-06-14'}
+ComprehensiveModelInfo{ModelID=5011, model_name='Qwen2.5-Coder-7B', org_name='Qwen Team (Alibaba)', license='Apache-2.0', size='7B', primary_task_name='Vulnerability Detection', total_number_of_versions=1, latest_version_no='1.0', latest_version_date='2025-01-10'}
+ComprehensiveModelInfo{ModelID=5012, model_name='GPT-4o-Mini', org_name='OpenAI', license='Proprietary', size='3B', primary_task_name='Question Answering', total_number_of_versions=2, latest_version_no='2.0', latest_version_date='2024-06-13'}
+ComprehensiveModelInfo{ModelID=5013, model_name='GPT-4o', org_name='OpenAI', license='Proprietary', size='8B', primary_task_name='Question Answering', total_number_of_versions=3, latest_version_no='3.0', latest_version_date='2025-07-13'}
+ComprehensiveModelInfo{ModelID=5014, model_name='Gemini-2.0-Pro', org_name='Google DeepMind', license='Proprietary', size='6.2B', primary_task_name='Question Answering', total_number_of_versions=1, latest_version_no='1.0', latest_version_date='2021-08-13'}
+ComprehensiveModelInfo{ModelID=5015, model_name='Gemini-2.0-Ultra', org_name='Google DeepMind', license='Proprietary', size='12B', primary_task_name='Question Answering', total_number_of_versions=1, latest_version_no='1.0', latest_version_date='2021-10-24'}
+ComprehensiveModelInfo{ModelID=5016, model_name='Claude-3.5-Sonnet', org_name='Anthropic', license='Proprietary', size='9B', primary_task_name='Question Answering', total_number_of_versions=5, latest_version_no='5.0', latest_version_date='2025-10-04'}
+ComprehensiveModelInfo{ModelID=5017, model_name='Claude-3.5-Opus', org_name='Anthropic', license='Proprietary', size='13B', primary_task_name='Question Answering', total_number_of_versions=5, latest_version_no='5.0', latest_version_date='2025-11-04'}
+ComprehensiveModelInfo{ModelID=5018, model_name='Llama3-8B', org_name='Meta AI', license='Meta-LLama', size='8B', primary_task_name='Question Answering', total_number_of_versions=5, latest_version_no='5.0', latest_version_date='2024-03-15'}
+ComprehensiveModelInfo{ModelID=5019, model_name='Llama3-70B', org_name='Meta AI', license='Meta-LLama', size='70B', primary_task_name='Language Modeling', total_number_of_versions=2, latest_version_no='2.0', latest_version_date='2025-12-01'}
+ComprehensiveModelInfo{ModelID=5020, model_name='Mistral-7B', org_name='Mistral AI', license='Apache-2.0', size='7B', primary_task_name='Language Modeling', total_number_of_versions=1, latest_version_no='1.0', latest_version_date='2024-12-23'}
+ComprehensiveModelInfo{ModelID=5021, model_name='Mixtral-8x7B', org_name='Mistral AI', license='Apache-2.0', size='56B', primary_task_name='Language Modeling', total_number_of_versions=5, latest_version_no='5.0', latest_version_date='2024-05-14'}
+ComprehensiveModelInfo{ModelID=5022, model_name='StableDiffusion-XL', org_name='HuggingFace', license='CreativeML', size='6.8B', primary_task_name='Image Classification', total_number_of_versions=4, latest_version_no='4.0', latest_version_date='2022-05-22'}
+ComprehensiveModelInfo{ModelID=5023, model_name='StableDiffusion-2.1', org_name='Stability AI', license='CreativeML', size='5.2B', primary_task_name='Image Classification', total_number_of_versions=1, latest_version_no='1.0', latest_version_date='2023-11-27'}
+ComprehensiveModelInfo{ModelID=5024, model_name='Whisper-Large-V3', org_name='OpenAI', license='MIT', size='3B', primary_task_name='Speech Recognition', total_number_of_versions=5, latest_version_no='5.0', latest_version_date='2025-10-07'}
+ComprehensiveModelInfo{ModelID=5025, model_name='Whisper-Small', org_name='OpenAI', license='MIT', size='0.6B', primary_task_name='Speech Recognition', total_number_of_versions=2, latest_version_no='2.0', latest_version_date='2024-11-21'}
+ComprehensiveModelInfo{ModelID=5026, model_name='ResNet50', org_name='Microsoft Research', license='Apache-2.0', size='98M', primary_task_name='Image Classification', total_number_of_versions=4, latest_version_no='4.0', latest_version_date='2023-09-16'}
+ComprehensiveModelInfo{ModelID=5027, model_name='EfficientNet-B7', org_name='Microsoft Research', license='Apache-2.0', size='280M', primary_task_name='Image Classification', total_number_of_versions=5, latest_version_no='5.0', latest_version_date='2023-04-19'}
+ComprehensiveModelInfo{ModelID=5028, model_name='ViT-B16', org_name='HuggingFace', license='Apache-2.0', size='330M', primary_task_name='Image Classification', total_number_of_versions=3, latest_version_no='3.0', latest_version_date='2023-08-07'}
+ComprehensiveModelInfo{ModelID=5029, model_name='MobileNetV3-Large', org_name='Microsoft Research', license='Apache-2.0', size='21M', primary_task_name='Image Classification', total_number_of_versions=4, latest_version_no='4.0', latest_version_date='2025-11-02'}
+ComprehensiveModelInfo{ModelID=5030, model_name='YOLOv8-Large', org_name='Stability AI', license='AGPL-3.0', size='250M', primary_task_name='Object Detection', total_number_of_versions=5, latest_version_no='5.0', latest_version_date='2025-10-23'}
+ComprehensiveModelInfo{ModelID=5031, model_name='YOLOv11-Nano', org_name='Stability AI', license='AGPL-3.0', size='9M', primary_task_name='Object Detection', total_number_of_versions=3, latest_version_no='3.0', latest_version_date='2024-05-07'}
+ComprehensiveModelInfo{ModelID=5032, model_name='BERT-Base', org_name='Microsoft Research', license='Apache-2.0', size='0.42B', primary_task_name='Text Classification', total_number_of_versions=4, latest_version_no='4.0', latest_version_date='2025-05-24'}
+ComprehensiveModelInfo{ModelID=5033, model_name='RoBERTa-Large', org_name='Microsoft Research', license='MIT', size='1.3B', primary_task_name='Text Classification', total_number_of_versions=4, latest_version_no='4.0', latest_version_date='2024-03-03'}
+ComprehensiveModelInfo{ModelID=5034, model_name='DeBERTaV3-Large', org_name='Microsoft Research', license='MIT', size='1.5B', primary_task_name='Text Classification', total_number_of_versions=3, latest_version_no='3.0', latest_version_date='2025-09-08'}
+ComprehensiveModelInfo{ModelID=5035, model_name='T5-Large', org_name='HuggingFace', license='Apache-2.0', size='2.7B', primary_task_name='Text Summarization', total_number_of_versions=1, latest_version_no='1.0', latest_version_date='2025-10-07'}
+ComprehensiveModelInfo{ModelID=5036, model_name='T5-3B', org_name='HuggingFace', license='Apache-2.0', size='3B', primary_task_name='Text Summarization', total_number_of_versions=1, latest_version_no='1.0', latest_version_date='2025-04-23'}
+ComprehensiveModelInfo{ModelID=5037, model_name='XGBoost-Classifier', org_name='Google Research', license='Apache-2.0', size='15M', primary_task_name='Anomaly Detection', total_number_of_versions=3, latest_version_no='3.0', latest_version_date='2025-11-09'}
+ComprehensiveModelInfo{ModelID=5038, model_name='LightGBM-Ranker', org_name='Microsoft Research', license='MIT', size='12M', primary_task_name='Anomaly Detection', total_number_of_versions=4, latest_version_no='4.0', latest_version_date='2025-09-12'}
+ComprehensiveModelInfo{ModelID=5039, model_name='CatBoost-Regressor', org_name='AI2 Allen Institute', license='Apache-2.0', size='18M', primary_task_name='Anomaly Detection', total_number_of_versions=1, latest_version_no='1.0', latest_version_date='2022-05-19'}
+ComprehensiveModelInfo{ModelID=5040, model_name='SVM-RBF-Model', org_name='Scale AI', license='Proprietary', size='5M', primary_task_name='Anomaly Detection', total_number_of_versions=4, latest_version_no='4.0', latest_version_date='2025-11-26'}
+ComprehensiveModelInfo{ModelID=5041, model_name='RandomForest-Classifier', org_name='Scale AI', license='MIT', size='11M', primary_task_name='Anomaly Detection', total_number_of_versions=2, latest_version_no='2.0', latest_version_date='2025-08-18'}
+ComprehensiveModelInfo{ModelID=5042, model_name='GradientBoost-Classifier', org_name='Scale AI', license='MIT', size='14M', primary_task_name='Anomaly Detection', total_number_of_versions=3, latest_version_no='3.0', latest_version_date='2025-04-28'}
+ComprehensiveModelInfo{ModelID=5043, model_name='NeuralProphet-v1', org_name='Ultra Data Science Research Center', license='BSD-3', size='65M', primary_task_name='Time Series Forecasting', total_number_of_versions=2, latest_version_no='2.0', latest_version_date='2024-09-27'}
+ComprehensiveModelInfo{ModelID=5044, model_name='Prophet-v1', org_name='Huawei Noah's Ark Lab', license='MIT', size='20M', primary_task_name='Time Series Forecasting', total_number_of_versions=1, latest_version_no='1.0', latest_version_date='2022-02-04'}
+ComprehensiveModelInfo{ModelID=5045, model_name='Tacotron2-TTS', org_name='Microsoft Research', license='MIT', size='150M', primary_task_name='Speech Recognition', total_number_of_versions=4, latest_version_no='4.0', latest_version_date='2025-03-13'}
+ComprehensiveModelInfo{ModelID=5046, model_name='Wav2Vec2-Large', org_name='Microsoft Research', license='Apache-2.0', size='1.2B', primary_task_name='Speech Recognition', total_number_of_versions=4, latest_version_no='4.0', latest_version_date='2025-11-27'}
+ComprehensiveModelInfo{ModelID=5047, model_name='SentenceBERT-MPNet', org_name='Bloomberg AI', license='MIT', size='440M', primary_task_name='Named Entity Recognition', total_number_of_versions=4, latest_version_no='4.0', latest_version_date='2025-12-02'}
+ComprehensiveModelInfo{ModelID=5048, model_name='CodeBERT-Finetuned-VulnScan', org_name='Google Research', license='Apache-2.0', size='0.45B', primary_task_name='Vulnerability Detection', total_number_of_versions=5, latest_version_no='5.0', latest_version_date='2025-09-21'}
+ComprehensiveModelInfo{ModelID=5049, model_name='DeepSeek-VulnDetector-7B', org_name='DeepSeek AI', license='Apache-2.0', size='7B', primary_task_name='Vulnerability Detection', total_number_of_versions=4, latest_version_no='4.0', latest_version_date='2025-12-01'}
+ComprehensiveModelInfo{ModelID=5050, model_name='Qwen-VulnScan-1.5B', org_name='Qwen Team (Alibaba)', license='Apache-2.0', size='1.5B', primary_task_name='Vulnerability Detection', total_number_of_versions=4, latest_version_no='4.0', latest_version_date='2025-12-02'}
+50 models retrieved with comprehensive information.
+
+--------------------------------------------------------------
+
+--------------------------------------------------------------
+***** Task 11: Dataset Statistics by Modality *****
+DatasetStatisticsByModality{modality='multimodal', dataset_count=3, average_rows=3160666.67}
+DatasetStatisticsByModality{modality='text', dataset_count=26, average_rows=1638815.38}
+DatasetStatisticsByModality{modality='audio', dataset_count=3, average_rows=1086666.67}
+DatasetStatisticsByModality{modality='code', dataset_count=21, average_rows=359431.62}
+DatasetStatisticsByModality{modality='metrics', dataset_count=3, average_rows=359333.33}
+DatasetStatisticsByModality{modality='graph', dataset_count=5, average_rows=246400.00}
+DatasetStatisticsByModality{modality='image', dataset_count=9, average_rows=237888.89}
+7 modality statistics retrieved.
+
+--------------------------------------------------------------
+
+--------------------------------------------------------------
+***** Task 12: Large-Parameter Model Versions Between 2024-01-01 and 2025-12-03 *****
+LargeModelVersionInfo{ModelID=5001, model_name='CodeBERT', size='0.4B', version_no='1.0', version_date='2024-10-03'}
+LargeModelVersionInfo{ModelID=5001, model_name='CodeBERT', size='0.4B', version_no='2.0', version_date='2024-12-27'}
+LargeModelVersionInfo{ModelID=5001, model_name='CodeBERT', size='0.4B', version_no='3.0', version_date='2025-08-20'}
+LargeModelVersionInfo{ModelID=5002, model_name='GraphCodeBERT', size='0.42B', version_no='3.0', version_date='2025-02-01'}
+LargeModelVersionInfo{ModelID=5002, model_name='GraphCodeBERT', size='0.42B', version_no='4.0', version_date='2025-05-11'}
+LargeModelVersionInfo{ModelID=5004, model_name='DeepSeekCoder-6.7B', size='6.7B', version_no='2.0', version_date='2025-05-13'}
+LargeModelVersionInfo{ModelID=5004, model_name='DeepSeekCoder-6.7B', size='6.7B', version_no='3.0', version_date='2025-07-10'}
+LargeModelVersionInfo{ModelID=5004, model_name='DeepSeekCoder-6.7B', size='6.7B', version_no='4.0', version_date='2025-07-24'}
+LargeModelVersionInfo{ModelID=5005, model_name='StarCoder2-3B', size='3B', version_no='1.0', version_date='2024-06-10'}
+LargeModelVersionInfo{ModelID=5005, model_name='StarCoder2-3B', size='3B', version_no='2.0', version_date='2024-10-11'}
+LargeModelVersionInfo{ModelID=5006, model_name='StarCoder2-15B', size='15B', version_no='2.0', version_date='2024-07-15'}
+LargeModelVersionInfo{ModelID=5008, model_name='CodeLlama-13B', size='13B', version_no='1.0', version_date='2025-09-03'}
+LargeModelVersionInfo{ModelID=5009, model_name='CodeLlama-34B', size='34B', version_no='1.0', version_date='2025-01-17'}
+LargeModelVersionInfo{ModelID=5009, model_name='CodeLlama-34B', size='34B', version_no='2.0', version_date='2025-05-11'}
+LargeModelVersionInfo{ModelID=5009, model_name='CodeLlama-34B', size='34B', version_no='3.0', version_date='2025-07-23'}
+LargeModelVersionInfo{ModelID=5009, model_name='CodeLlama-34B', size='34B', version_no='4.0', version_date='2025-10-24'}
+LargeModelVersionInfo{ModelID=5009, model_name='CodeLlama-34B', size='34B', version_no='5.0', version_date='2025-11-14'}
+LargeModelVersionInfo{ModelID=5010, model_name='Qwen2.5-Coder-1.5B', size='1.5B', version_no='3.0', version_date='2024-01-25'}
+LargeModelVersionInfo{ModelID=5010, model_name='Qwen2.5-Coder-1.5B', size='1.5B', version_no='4.0', version_date='2024-06-14'}
+LargeModelVersionInfo{ModelID=5011, model_name='Qwen2.5-Coder-7B', size='7B', version_no='1.0', version_date='2025-01-10'}
+LargeModelVersionInfo{ModelID=5012, model_name='GPT-4o-Mini', size='3B', version_no='2.0', version_date='2024-06-13'}
+LargeModelVersionInfo{ModelID=5013, model_name='GPT-4o', size='8B', version_no='2.0', version_date='2025-04-23'}
+LargeModelVersionInfo{ModelID=5013, model_name='GPT-4o', size='8B', version_no='3.0', version_date='2025-07-13'}
+LargeModelVersionInfo{ModelID=5016, model_name='Claude-3.5-Sonnet', size='9B', version_no='1.0', version_date='2024-10-25'}
+LargeModelVersionInfo{ModelID=5016, model_name='Claude-3.5-Sonnet', size='9B', version_no='2.0', version_date='2025-03-21'}
+LargeModelVersionInfo{ModelID=5016, model_name='Claude-3.5-Sonnet', size='9B', version_no='3.0', version_date='2025-04-28'}
+LargeModelVersionInfo{ModelID=5016, model_name='Claude-3.5-Sonnet', size='9B', version_no='4.0', version_date='2025-06-28'}
+LargeModelVersionInfo{ModelID=5016, model_name='Claude-3.5-Sonnet', size='9B', version_no='5.0', version_date='2025-10-04'}
+LargeModelVersionInfo{ModelID=5017, model_name='Claude-3.5-Opus', size='13B', version_no='1.0', version_date='2025-06-13'}
+LargeModelVersionInfo{ModelID=5017, model_name='Claude-3.5-Opus', size='13B', version_no='2.0', version_date='2025-07-01'}
+LargeModelVersionInfo{ModelID=5017, model_name='Claude-3.5-Opus', size='13B', version_no='3.0', version_date='2025-09-25'}
+LargeModelVersionInfo{ModelID=5017, model_name='Claude-3.5-Opus', size='13B', version_no='4.0', version_date='2025-10-27'}
+LargeModelVersionInfo{ModelID=5017, model_name='Claude-3.5-Opus', size='13B', version_no='5.0', version_date='2025-11-04'}
+LargeModelVersionInfo{ModelID=5018, model_name='Llama3-8B', size='8B', version_no='4.0', version_date='2024-01-02'}
+LargeModelVersionInfo{ModelID=5018, model_name='Llama3-8B', size='8B', version_no='5.0', version_date='2024-03-15'}
+LargeModelVersionInfo{ModelID=5019, model_name='Llama3-70B', size='70B', version_no='1.0', version_date='2025-11-04'}
+LargeModelVersionInfo{ModelID=5019, model_name='Llama3-70B', size='70B', version_no='2.0', version_date='2025-12-01'}
+LargeModelVersionInfo{ModelID=5020, model_name='Mistral-7B', size='7B', version_no='1.0', version_date='2024-12-23'}
+LargeModelVersionInfo{ModelID=5021, model_name='Mixtral-8x7B', size='56B', version_no='5.0', version_date='2024-05-14'}
+LargeModelVersionInfo{ModelID=5024, model_name='Whisper-Large-V3', size='3B', version_no='2.0', version_date='2024-04-08'}
+LargeModelVersionInfo{ModelID=5024, model_name='Whisper-Large-V3', size='3B', version_no='3.0', version_date='2024-08-04'}
+LargeModelVersionInfo{ModelID=5024, model_name='Whisper-Large-V3', size='3B', version_no='4.0', version_date='2024-08-09'}
+LargeModelVersionInfo{ModelID=5024, model_name='Whisper-Large-V3', size='3B', version_no='5.0', version_date='2025-10-07'}
+LargeModelVersionInfo{ModelID=5025, model_name='Whisper-Small', size='0.6B', version_no='1.0', version_date='2024-01-03'}
+LargeModelVersionInfo{ModelID=5025, model_name='Whisper-Small', size='0.6B', version_no='2.0', version_date='2024-11-21'}
+LargeModelVersionInfo{ModelID=5032, model_name='BERT-Base', size='0.42B', version_no='2.0', version_date='2024-02-11'}
+LargeModelVersionInfo{ModelID=5032, model_name='BERT-Base', size='0.42B', version_no='3.0', version_date='2025-02-01'}
+LargeModelVersionInfo{ModelID=5032, model_name='BERT-Base', size='0.42B', version_no='4.0', version_date='2025-05-24'}
+LargeModelVersionInfo{ModelID=5033, model_name='RoBERTa-Large', size='1.3B', version_no='3.0', version_date='2024-02-01'}
+LargeModelVersionInfo{ModelID=5033, model_name='RoBERTa-Large', size='1.3B', version_no='4.0', version_date='2024-03-03'}
+LargeModelVersionInfo{ModelID=5034, model_name='DeBERTaV3-Large', size='1.5B', version_no='2.0', version_date='2025-01-06'}
+LargeModelVersionInfo{ModelID=5034, model_name='DeBERTaV3-Large', size='1.5B', version_no='3.0', version_date='2025-09-08'}
+LargeModelVersionInfo{ModelID=5035, model_name='T5-Large', size='2.7B', version_no='1.0', version_date='2025-10-07'}
+LargeModelVersionInfo{ModelID=5036, model_name='T5-3B', size='3B', version_no='1.0', version_date='2025-04-23'}
+LargeModelVersionInfo{ModelID=5046, model_name='Wav2Vec2-Large', size='1.2B', version_no='2.0', version_date='2024-03-01'}
+LargeModelVersionInfo{ModelID=5046, model_name='Wav2Vec2-Large', size='1.2B', version_no='3.0', version_date='2025-09-09'}
+LargeModelVersionInfo{ModelID=5046, model_name='Wav2Vec2-Large', size='1.2B', version_no='4.0', version_date='2025-11-27'}
+LargeModelVersionInfo{ModelID=5048, model_name='CodeBERT-Finetuned-VulnScan', size='0.45B', version_no='3.0', version_date='2025-03-07'}
+LargeModelVersionInfo{ModelID=5048, model_name='CodeBERT-Finetuned-VulnScan', size='0.45B', version_no='4.0', version_date='2025-05-20'}
+LargeModelVersionInfo{ModelID=5048, model_name='CodeBERT-Finetuned-VulnScan', size='0.45B', version_no='5.0', version_date='2025-09-21'}
+LargeModelVersionInfo{ModelID=5049, model_name='DeepSeek-VulnDetector-7B', size='7B', version_no='1.0', version_date='2025-03-27'}
+LargeModelVersionInfo{ModelID=5049, model_name='DeepSeek-VulnDetector-7B', size='7B', version_no='2.0', version_date='2025-05-16'}
+LargeModelVersionInfo{ModelID=5049, model_name='DeepSeek-VulnDetector-7B', size='7B', version_no='3.0', version_date='2025-05-26'}
+LargeModelVersionInfo{ModelID=5049, model_name='DeepSeek-VulnDetector-7B', size='7B', version_no='4.0', version_date='2025-12-01'}
+LargeModelVersionInfo{ModelID=5050, model_name='Qwen-VulnScan-1.5B', size='1.5B', version_no='2.0', version_date='2025-09-27'}
+LargeModelVersionInfo{ModelID=5050, model_name='Qwen-VulnScan-1.5B', size='1.5B', version_no='3.0', version_date='2025-11-21'}
+LargeModelVersionInfo{ModelID=5050, model_name='Qwen-VulnScan-1.5B', size='1.5B', version_no='4.0', version_date='2025-12-02'}
+67 large-parameter model versions retrieved between 2024-01-01 and 2025-12-03.
+
+--------------------------------------------------------------
+
+--------------------------------------------------------------
+***** Task 13: Dataset(s) With Maximum Upload Count *****
+DatasetMaxUploadInfo{DatasetID=9047, dataset_name='WMT-Translation-EN-DE', upload_count=8}
+1 dataset(s) with maximum upload count found.
+
+--------------------------------------------------------------
+
+--------------------------------------------------------------
+***** Task 14: Complete Datasets Uploaded by All Roles *****
+Dataset{DatasetID=9051, dataset_name='Code2Vec-FunctionReps', modality='graph', number_of_rows=125000}
+1 complete datasets found.
+
+--------------------------------------------------------------
+
+--------------------------------------------------------------
+***** Task 15: Users Who Uploaded Datasets with Role 'creator' or 'contributor' but Never 'validator' and Have Reputation ≥ 60 *****
+User{PIN=143426, user_name='Grace King', reputation_score=62}
+User{PIN=151167, user_name='Sophia Walker', reputation_score=67}
+User{PIN=238175, user_name='Kevin Clark', reputation_score=66}
+User{PIN=291104, user_name='Jason Martinez', reputation_score=84}
+User{PIN=433984, user_name='Susan Anderson', reputation_score=96}
+User{PIN=623671, user_name='Emma Allen', reputation_score=87}
+User{PIN=667426, user_name='Mike Allen', reputation_score=91}
+User{PIN=689093, user_name='Emily Perez', reputation_score=98}
+User{PIN=859773, user_name='Patrick Walker', reputation_score=66}
+User{PIN=869646, user_name='Laura King', reputation_score=82}
+User{PIN=892048, user_name='Emily Davis', reputation_score=73}
+11 users retrieved.
+
+--------------------------------------------------------------
+
+--------------------------------------------------------------
+***** Task 16: Users Who Ran All Versions of At Least One Model *****
+UserModelVersionInfo{PIN=150511, user_name='Alan Rodriguez', ModelID=5011, model_name='Qwen2.5-Coder-7B', version_no='1.0', license='Apache-2.0'}
+UserModelVersionInfo{PIN=158486, user_name='Jennifer Martin', ModelID=5007, model_name='CodeLlama-7B', version_no='1.0', license='Meta-LLama'}
+UserModelVersionInfo{PIN=197657, user_name='Megan Lee', ModelID=5003, model_name='DeepSeekCoder-1.3B', version_no='1.0', license='Apache-2.0'}
+UserModelVersionInfo{PIN=197657, user_name='Megan Lee', ModelID=5004, model_name='DeepSeekCoder-6.7B', version_no='1.0', license='Apache-2.0'}
+UserModelVersionInfo{PIN=197657, user_name='Megan Lee', ModelID=5004, model_name='DeepSeekCoder-6.7B', version_no='2.0', license='Apache-2.0'}
+UserModelVersionInfo{PIN=197657, user_name='Megan Lee', ModelID=5004, model_name='DeepSeekCoder-6.7B', version_no='3.0', license='Apache-2.0'}
+UserModelVersionInfo{PIN=197657, user_name='Megan Lee', ModelID=5004, model_name='DeepSeekCoder-6.7B', version_no='4.0', license='Apache-2.0'}
+UserModelVersionInfo{PIN=234835, user_name='Jason Baker', ModelID=5011, model_name='Qwen2.5-Coder-7B', version_no='1.0', license='Apache-2.0'}
+UserModelVersionInfo{PIN=320703, user_name='George Smith', ModelID=5011, model_name='Qwen2.5-Coder-7B', version_no='1.0', license='Apache-2.0'}
+UserModelVersionInfo{PIN=326209, user_name='Amy Taylor', ModelID=5015, model_name='Gemini-2.0-Ultra', version_no='1.0', license='Proprietary'}
+UserModelVersionInfo{PIN=333589, user_name='John Torres', ModelID=5020, model_name='Mistral-7B', version_no='1.0', license='Apache-2.0'}
+UserModelVersionInfo{PIN=376748, user_name='Tim Perez', ModelID=5003, model_name='DeepSeekCoder-1.3B', version_no='1.0', license='Apache-2.0'}
+UserModelVersionInfo{PIN=376748, user_name='Tim Perez', ModelID=5019, model_name='Llama3-70B', version_no='1.0', license='Meta-LLama'}
+UserModelVersionInfo{PIN=376748, user_name='Tim Perez', ModelID=5019, model_name='Llama3-70B', version_no='2.0', license='Meta-LLama'}
+UserModelVersionInfo{PIN=395804, user_name='Tim Allen', ModelID=5003, model_name='DeepSeekCoder-1.3B', version_no='1.0', license='Apache-2.0'}
+UserModelVersionInfo{PIN=395804, user_name='Tim Allen', ModelID=5020, model_name='Mistral-7B', version_no='1.0', license='Apache-2.0'}
+UserModelVersionInfo{PIN=446613, user_name='Zach Brown', ModelID=5020, model_name='Mistral-7B', version_no='1.0', license='Apache-2.0'}
+UserModelVersionInfo{PIN=488372, user_name='Kevin Baker', ModelID=5011, model_name='Qwen2.5-Coder-7B', version_no='1.0', license='Apache-2.0'}
+UserModelVersionInfo{PIN=621636, user_name='Karen Green', ModelID=5011, model_name='Qwen2.5-Coder-7B', version_no='1.0', license='Apache-2.0'}
+UserModelVersionInfo{PIN=626869, user_name='William Wilson', ModelID=5023, model_name='StableDiffusion-2.1', version_no='1.0', license='CreativeML'}
+UserModelVersionInfo{PIN=761550, user_name='Megan Nguyen', ModelID=5023, model_name='StableDiffusion-2.1', version_no='1.0', license='CreativeML'}
+UserModelVersionInfo{PIN=788351, user_name='Angela Martin', ModelID=5011, model_name='Qwen2.5-Coder-7B', version_no='1.0', license='Apache-2.0'}
+UserModelVersionInfo{PIN=801028, user_name='Emily Lee', ModelID=5015, model_name='Gemini-2.0-Ultra', version_no='1.0', license='Proprietary'}
+UserModelVersionInfo{PIN=849046, user_name='Mark Harris', ModelID=5023, model_name='StableDiffusion-2.1', version_no='1.0', license='CreativeML'}
+UserModelVersionInfo{PIN=864703, user_name='Patrick Baker', ModelID=5003, model_name='DeepSeekCoder-1.3B', version_no='1.0', license='Apache-2.0'}
+UserModelVersionInfo{PIN=869646, user_name='Laura King', ModelID=5003, model_name='DeepSeekCoder-1.3B', version_no='1.0', license='Apache-2.0'}
+UserModelVersionInfo{PIN=894813, user_name='Thomas King', ModelID=5015, model_name='Gemini-2.0-Ultra', version_no='1.0', license='Proprietary'}
+UserModelVersionInfo{PIN=921883, user_name='Sarah Wright', ModelID=5011, model_name='Qwen2.5-Coder-7B', version_no='1.0', license='Apache-2.0'}
+28 users found who ran all versions of any model.
+
+--------------------------------------------------------------
+
+--------------------------------------------------------------
+***** Task 17: Run-Type Statistics *****
+RunTypeStats{run_type='zero-shot', total_number_of_results=72, average_f1_score=0.67}
+RunTypeStats{run_type='instruction fine-tuning', total_number_of_results=90, average_f1_score=0.68}
+RunTypeStats{run_type='in-context learning', total_number_of_results=59, average_f1_score=0.65}
+RunTypeStats{run_type='full fine-tuning', total_number_of_results=63, average_f1_score=0.68}
+RunTypeStats{run_type='fine-tuning', total_number_of_results=50, average_f1_score=0.65}
+RunTypeStats{run_type='few-shot', total_number_of_results=52, average_f1_score=0.68}
+RunTypeStats{run_type='evaluation', total_number_of_results=61, average_f1_score=0.67}
+RunTypeStats{run_type='benchmark evaluation', total_number_of_results=43, average_f1_score=0.69}
+RunTypeStats{run_type='ablation study evaluation', total_number_of_results=59, average_f1_score=0.69}
+RunTypeStats{run_type='LoRA fine-tuning', total_number_of_results=80, average_f1_score=0.69}
+10 run types found.
+
+--------------------------------------------------------------
+
+--------------------------------------------------------------
+***** Task 18: Publications That Include Results From Runs of Dataset BigVul *****
+Publication{PubID=312, title='Code Property Graph Models for Vulnerability Detection', venue='FSE'}
+Publication{PubID=325, title='Semantic Code Embeddings for Vulnerability Search', venue='SIGIR'}
+Publication{PubID=339, title='Medical Image Classification Using Vision Transformers', venue='MICCAI'}
+Publication{PubID=344, title='Neural Machine Translation with Attention Mechanisms', venue='ACL'}
+Publication{PubID=353, title='Relation Extraction with Joint Token-Span Models', venue='ACL'}
+Publication{PubID=357, title='Prompt Engineering Techniques for Improved LLM Output', venue='EMNLP'}
+Publication{PubID=358, title='Zero-Shot Learning for NLP Tasks with LLMs', venue='ACL'}
+Publication{PubID=364, title='Video Summarization Using Attention Networks', venue='CVPR'}
+Publication{PubID=366, title='Object Tracking with Siamese Neural Networks', venue='ECCV'}
+Publication{PubID=373, title='Audio Classification with Temporal Convolutional Models', venue='ICASSP'}
+Publication{PubID=392, title='Neural Architecture Search for ML Optimization', venue='ICLR'}
+Publication{PubID=395, title='Distributed Training Techniques for Large Models', venue='SC'}
+Publication{PubID=407, title='Reinforcement Learning with Policy Gradient Methods', venue='ICML'}
+Publication{PubID=411, title='Reward Modeling for Preference-Based Optimization', venue='NeurIPS'}
+Publication{PubID=417, title='Long-Context LLMs for Document Understanding', venue='NeurIPS'}
+Publication{PubID=426, title='Semantic Search Using Vector Embeddings', venue='SIGIR'}
+Publication{PubID=431, title='Text Normalization Using Seq2Seq Models', venue='ACL'}
+Publication{PubID=432, title='Semantic Parsing with Transformer Encoders', venue='EMNLP'}
+Publication{PubID=437, title='Bug Report Classification Using Neural Text Models', venue='MSR'}
+Publication{PubID=439, title='Software Documentation Generation Using LLMs', venue='ICSE'}
+Publication{PubID=449, title='Secure Coding Assistance with Generative Models', venue='ICSE'}
+Publication{PubID=450, title='Static Malware Analysis Using Neural Models', venue='ACSAC'}
+Publication{PubID=475, title='Automatic Refactoring Recommendation Using ML', venue='ICSME'}
+Publication{PubID=476, title='Repository Embedding Models for Project Evolution', venue='MSR'}
+Publication{PubID=479, title='Detecting Hardcoded Secrets Using ML Embeddings', venue='USENIX'}
+Publication{PubID=485, title='Learning Performance Models for Cloud Applications', venue='SoCC'}
+Publication{PubID=499, title='Multimodal Analysis for Software Artifact Linkage', venue='ICSE'}
+27 publications found for dataset BigVul.
+
+--------------------------------------------------------------
+
+--------------------------------------------------------------
+***** Task 19: Top 10 Highly-Reputed Users *****
+HighlyReputedUser{PIN=829603, user_name='Ethan King', user_score=121}
+HighlyReputedUser{PIN=263445, user_name='Michael Torres', user_score=116}
+HighlyReputedUser{PIN=788351, user_name='Angela Martin', user_score=115}
+HighlyReputedUser{PIN=479879, user_name='Tim Clark', user_score=112}
+HighlyReputedUser{PIN=166729, user_name='Heather Nguyen', user_score=109}
+HighlyReputedUser{PIN=611761, user_name='Linda Scott', user_score=108}
+HighlyReputedUser{PIN=667426, user_name='Mike Allen', user_score=106}
+HighlyReputedUser{PIN=824938, user_name='Peter Jackson', user_score=106}
+HighlyReputedUser{PIN=237927, user_name='George Martin', user_score=105}
+HighlyReputedUser{PIN=291376, user_name='Steven Martin', user_score=102}
+10 highly-reputed users found.
+
+--------------------------------------------------------------
+
+--------------------------------------------------------------
+***** Task 20: Vulnerability Detection Publications *****
+TaskSpecificPublication{PubID=300, ResultID=1085, title='Neural Approaches for Vulnerability Detection', venue='FSE', run_type='fine-tuning', f1_score=0.84, accuracy=0.90, hyperparameter_config='lr=1e-4;batch=16;SGD', placement_type='paragraph', placement_section='Introduction', user_name='Hannah Hill', model_name='CodeLlama-34B', size='34B', version_no='1.0', dataset_name='Spider-SQL-Benchmark'}
+TaskSpecificPublication{PubID=304, ResultID=1168, title='Static-Dynamic Fusion for Security Defect Detection', venue='S&P', run_type='full fine-tuning', f1_score=0.74, accuracy=0.96, hyperparameter_config='lr=1e-5;batch=128;Adam', placement_type='figure', placement_section='Introduction', user_name='Angela Martin', model_name='Qwen2.5-Coder-7B', size='7B', version_no='1.0', dataset_name='SAP-MetricsDB'}
+TaskSpecificPublication{PubID=305, ResultID=1157, title='Few-Shot Vulnerability Detection with Large Code Models', venue='NeurIPS', run_type='in-context learning', f1_score=0.74, accuracy=0.82, hyperparameter_config='lr=1e-4;batch=16;SGD', placement_type='paragraph', placement_section='Related Work', user_name='Jane Thompson', model_name='CodeLlama-34B', size='34B', version_no='3.0', dataset_name='CodeSearchNet-JavaScript'}
+TaskSpecificPublication{PubID=308, ResultID=1225, title='Contrastive Learning for Vulnerability Detection', venue='ICLR', run_type='in-context learning', f1_score=0.71, accuracy=0.73, hyperparameter_config='lr=8e-6;batch=24;Adagrad', placement_type='paragraph', placement_section='Method', user_name='Patrick Baker', model_name='DeepSeekCoder-1.3B', size='1.3B', version_no='1.0', dataset_name='CodeSearchNet-Java'}
+TaskSpecificPublication{PubID=312, ResultID=1015, title='Code Property Graph Models for Vulnerability Detection', venue='FSE', run_type='LoRA fine-tuning', f1_score=0.89, accuracy=0.94, hyperparameter_config='lr=5e-5;batch=32;SGD', placement_type='figure', placement_section='Method', user_name='Jane Thompson', model_name='GraphCodeBERT', size='0.42B', version_no='1.0', dataset_name='Spider-SQL-Benchmark'}
+TaskSpecificPublication{PubID=314, ResultID=1150, title='Multilingual Vulnerability Detection Using LLMs', venue='ACL', run_type='fine-tuning', f1_score=0.70, accuracy=0.90, hyperparameter_config='lr=2e-5;batch=48;AdamW;warmup=100', placement_type='paragraph', placement_section='Method', user_name='Karen Green', model_name='Qwen2.5-Coder-7B', size='7B', version_no='1.0', dataset_name='SAP-MetricsDB'}
+TaskSpecificPublication{PubID=317, ResultID=1160, title='Explainable AI for Vulnerability Detection Models', venue='TOSEM', run_type='in-context learning', f1_score=0.70, accuracy=0.72, hyperparameter_config='lr=2e-5;batch=32;AdamW', placement_type='figure', placement_section='Related Work', user_name='Jane Thompson', model_name='CodeLlama-34B', size='34B', version_no='3.0', dataset_name='CodeSearchNet-JavaScript'}
+TaskSpecificPublication{PubID=319, ResultID=1130, title='Cross-Project Deep Vulnerability Prediction', venue='EMSE', run_type='instruction fine-tuning', f1_score=0.72, accuracy=0.85, hyperparameter_config='lr=5e-6;batch=8;AdamW', placement_type='table', placement_section='Experiments', user_name='Amy Walker', model_name='Qwen2.5-Coder-1.5B', size='1.5B', version_no='4.0', dataset_name='Juliet-TestSuite-C'}
+TaskSpecificPublication{PubID=320, ResultID=1068, title='Syntax-Aware Neural Models for Vulnerability Detection', venue='AAAI', run_type='zero-shot', f1_score=0.74, accuracy=0.75, hyperparameter_config='lr=3e-5;batch=64;AdamW', placement_type='paragraph', placement_section='Method', user_name='Steven Baker', model_name='DeepSeekCoder-6.7B', size='6.7B', version_no='1.0', dataset_name='Spider-SQL-Benchmark'}
+TaskSpecificPublication{PubID=321, ResultID=1224, title='Vulnerability Trend Forecasting Using Time Series Models', venue='NeurIPS', run_type='in-context learning', f1_score=0.73, accuracy=0.85, hyperparameter_config='lr=1e-5;batch=16;AdamW', placement_type='table', placement_section='Related Work', user_name='Patrick Baker', model_name='DeepSeekCoder-1.3B', size='1.3B', version_no='1.0', dataset_name='CodeSearchNet-Java'}
+TaskSpecificPublication{PubID=325, ResultID=1224, title='Semantic Code Embeddings for Vulnerability Search', venue='SIGIR', run_type='in-context learning', f1_score=0.73, accuracy=0.85, hyperparameter_config='lr=1e-5;batch=16;AdamW', placement_type='paragraph', placement_section='Introduction', user_name='Patrick Baker', model_name='DeepSeekCoder-1.3B', size='1.3B', version_no='1.0', dataset_name='CodeSearchNet-Java'}
+TaskSpecificPublication{PubID=325, ResultID=1230, title='Semantic Code Embeddings for Vulnerability Search', venue='SIGIR', run_type='few-shot', f1_score=0.82, accuracy=0.96, hyperparameter_config='lr=3e-5;batch=64;AdamW', placement_type='figure', placement_section='Experiments', user_name='Ethan King', model_name='Qwen2.5-Coder-1.5B', size='1.5B', version_no='4.0', dataset_name='BigVul'}
+TaskSpecificPublication{PubID=327, ResultID=1130, title='Neural Repair Models for Vulnerable Code', venue='ASE', run_type='instruction fine-tuning', f1_score=0.72, accuracy=0.85, hyperparameter_config='lr=5e-6;batch=8;AdamW', placement_type='figure', placement_section='Results', user_name='Amy Walker', model_name='Qwen2.5-Coder-1.5B', size='1.5B', version_no='4.0', dataset_name='Juliet-TestSuite-C'}
+TaskSpecificPublication{PubID=342, ResultID=1061, title='Multilingual Text Classification with Transformer Encoders', venue='ACL', run_type='zero-shot', f1_score=0.88, accuracy=0.89, hyperparameter_config='lr=3e-5;batch=48;RMSProp', placement_type='paragraph', placement_section='Method', user_name='David Williams', model_name='DeepSeekCoder-6.7B', size='6.7B', version_no='3.0', dataset_name='GitHub-PythonCorpus'}
+TaskSpecificPublication{PubID=344, ResultID=1230, title='Neural Machine Translation with Attention Mechanisms', venue='ACL', run_type='few-shot', f1_score=0.82, accuracy=0.96, hyperparameter_config='lr=3e-5;batch=64;AdamW', placement_type='table', placement_section='Method', user_name='Ethan King', model_name='Qwen2.5-Coder-1.5B', size='1.5B', version_no='4.0', dataset_name='BigVul'}
+TaskSpecificPublication{PubID=347, ResultID=1129, title='Dialogue Generation with Reinforcement Learning', venue='AAAI', run_type='instruction fine-tuning', f1_score=0.79, accuracy=0.79, hyperparameter_config='lr=1e-5;batch=16;AdamW', placement_type='table', placement_section='Results', user_name='Amy Walker', model_name='Qwen2.5-Coder-1.5B', size='1.5B', version_no='4.0', dataset_name='Juliet-TestSuite-C'}
+TaskSpecificPublication{PubID=350, ResultID=1068, title='Emotion Recognition from Text Using Pretrained Models', venue='EMNLP', run_type='zero-shot', f1_score=0.74, accuracy=0.75, hyperparameter_config='lr=3e-5;batch=64;AdamW', placement_type='paragraph', placement_section='Method', user_name='Steven Baker', model_name='DeepSeekCoder-6.7B', size='6.7B', version_no='1.0', dataset_name='Spider-SQL-Benchmark'}
+TaskSpecificPublication{PubID=352, ResultID=1224, title='Document Clustering Using Deep Embeddings', venue='WWW', run_type='in-context learning', f1_score=0.73, accuracy=0.85, hyperparameter_config='lr=1e-5;batch=16;AdamW', placement_type='table', placement_section='Method', user_name='Patrick Baker', model_name='DeepSeekCoder-1.3B', size='1.3B', version_no='1.0', dataset_name='CodeSearchNet-Java'}
+TaskSpecificPublication{PubID=354, ResultID=1068, title='Coreference Resolution Using Neural Architectures', venue='EMNLP', run_type='zero-shot', f1_score=0.74, accuracy=0.75, hyperparameter_config='lr=3e-5;batch=64;AdamW', placement_type='figure', placement_section='Introduction', user_name='Steven Baker', model_name='DeepSeekCoder-6.7B', size='6.7B', version_no='1.0', dataset_name='Spider-SQL-Benchmark'}
+TaskSpecificPublication{PubID=355, ResultID=1160, title='Semantic Similarity Estimation Using Sentence Transformers', venue='ACL', run_type='in-context learning', f1_score=0.70, accuracy=0.72, hyperparameter_config='lr=2e-5;batch=32;AdamW', placement_type='table', placement_section='Experiments', user_name='Jane Thompson', model_name='CodeLlama-34B', size='34B', version_no='3.0', dataset_name='CodeSearchNet-JavaScript'}
+TaskSpecificPublication{PubID=356, ResultID=1164, title='Knowledge Distillation for Large Language Models', venue='ICLR', run_type='full fine-tuning', f1_score=0.72, accuracy=0.96, hyperparameter_config='lr=8e-6;batch=24;Adagrad', placement_type='figure', placement_section='Introduction', user_name='Angela Martin', model_name='Qwen2.5-Coder-7B', size='7B', version_no='1.0', dataset_name='SAP-MetricsDB'}
+TaskSpecificPublication{PubID=357, ResultID=1224, title='Prompt Engineering Techniques for Improved LLM Output', venue='EMNLP', run_type='in-context learning', f1_score=0.73, accuracy=0.85, hyperparameter_config='lr=1e-5;batch=16;AdamW', placement_type='figure', placement_section='Method', user_name='Patrick Baker', model_name='DeepSeekCoder-1.3B', size='1.3B', version_no='1.0', dataset_name='CodeSearchNet-Java'}
+TaskSpecificPublication{PubID=358, ResultID=1015, title='Zero-Shot Learning for NLP Tasks with LLMs', venue='ACL', run_type='LoRA fine-tuning', f1_score=0.89, accuracy=0.94, hyperparameter_config='lr=5e-5;batch=32;SGD', placement_type='figure', placement_section='Experiments', user_name='Jane Thompson', model_name='GraphCodeBERT', size='0.42B', version_no='1.0', dataset_name='Spider-SQL-Benchmark'}
+TaskSpecificPublication{PubID=363, ResultID=1129, title='Visual Question Answering with Multimodal LLMs', venue='NeurIPS', run_type='instruction fine-tuning', f1_score=0.79, accuracy=0.79, hyperparameter_config='lr=1e-5;batch=16;AdamW', placement_type='figure', placement_section='Introduction', user_name='Amy Walker', model_name='Qwen2.5-Coder-1.5B', size='1.5B', version_no='4.0', dataset_name='Juliet-TestSuite-C'}
+TaskSpecificPublication{PubID=366, ResultID=1249, title='Object Tracking with Siamese Neural Networks', venue='ECCV', run_type='few-shot', f1_score=0.81, accuracy=0.83, hyperparameter_config='lr=2e-5;batch=32;AdamW', placement_type='figure', placement_section='Related Work', user_name='Emma Allen', model_name='DeepSeekCoder-6.7B', size='6.7B', version_no='2.0', dataset_name='OpenAI-HumanEval'}
+TaskSpecificPublication{PubID=368, ResultID=1157, title='Handwriting Recognition with Neural Encoders', venue='ICDAR', run_type='in-context learning', f1_score=0.74, accuracy=0.82, hyperparameter_config='lr=1e-4;batch=16;SGD', placement_type='table', placement_section='Results', user_name='Jane Thompson', model_name='CodeLlama-34B', size='34B', version_no='3.0', dataset_name='CodeSearchNet-JavaScript'}
+TaskSpecificPublication{PubID=369, ResultID=1015, title='OCR Error Correction Using Language Models', venue='ACL', run_type='LoRA fine-tuning', f1_score=0.89, accuracy=0.94, hyperparameter_config='lr=5e-5;batch=32;SGD', placement_type='paragraph', placement_section='Introduction', user_name='Jane Thompson', model_name='GraphCodeBERT', size='0.42B', version_no='1.0', dataset_name='Spider-SQL-Benchmark'}
+TaskSpecificPublication{PubID=372, ResultID=1121, title='Speaker Identification Using Deep Embedding Models', venue='INTERSPEECH', run_type='full fine-tuning', f1_score=0.78, accuracy=0.96, hyperparameter_config='lr=2e-5;batch=48;AdamW;warmup=100', placement_type='paragraph', placement_section='Method', user_name='Hannah Hill', model_name='Qwen2.5-Coder-1.5B', size='1.5B', version_no='3.0', dataset_name='Juliet-TestSuite-C'}
+TaskSpecificPublication{PubID=375, ResultID=1121, title='Speech Enhancement with Denoising Networks', venue='INTERSPEECH', run_type='full fine-tuning', f1_score=0.78, accuracy=0.96, hyperparameter_config='lr=2e-5;batch=48;AdamW;warmup=100', placement_type='paragraph', placement_section='Results', user_name='Hannah Hill', model_name='Qwen2.5-Coder-1.5B', size='1.5B', version_no='3.0', dataset_name='Juliet-TestSuite-C'}
+TaskSpecificPublication{PubID=376, ResultID=1129, title='Time Series Forecasting with Temporal Fusion Transformers', venue='NeurIPS', run_type='instruction fine-tuning', f1_score=0.79, accuracy=0.79, hyperparameter_config='lr=1e-5;batch=16;AdamW', placement_type='paragraph', placement_section='Experiments', user_name='Amy Walker', model_name='Qwen2.5-Coder-1.5B', size='1.5B', version_no='4.0', dataset_name='Juliet-TestSuite-C'}
+TaskSpecificPublication{PubID=377, ResultID=1062, title='Financial Forecasting Using Deep Learning', venue='ICML', run_type='zero-shot', f1_score=0.70, accuracy=0.72, hyperparameter_config='lr=1e-5;batch=16;AdamW', placement_type='table', placement_section='Experiments', user_name='David Williams', model_name='DeepSeekCoder-6.7B', size='6.7B', version_no='3.0', dataset_name='GitHub-PythonCorpus'}
+TaskSpecificPublication{PubID=379, ResultID=1130, title='Anomaly Detection Using Autoencoder Networks', venue='ICML', run_type='instruction fine-tuning', f1_score=0.72, accuracy=0.85, hyperparameter_config='lr=5e-6;batch=8;AdamW', placement_type='table', placement_section='Introduction', user_name='Amy Walker', model_name='Qwen2.5-Coder-1.5B', size='1.5B', version_no='4.0', dataset_name='Juliet-TestSuite-C'}
+TaskSpecificPublication{PubID=381, ResultID=1225, title='Network Intrusion Detection Using Deep Packet Models', venue='RAID', run_type='in-context learning', f1_score=0.71, accuracy=0.73, hyperparameter_config='lr=8e-6;batch=24;Adagrad', placement_type='figure', placement_section='Introduction', user_name='Patrick Baker', model_name='DeepSeekCoder-1.3B', size='1.3B', version_no='1.0', dataset_name='CodeSearchNet-Java'}
+TaskSpecificPublication{PubID=389, ResultID=1017, title='Ensemble Learning for Robust Predictions', venue='AAAI', run_type='LoRA fine-tuning', f1_score=0.81, accuracy=0.96, hyperparameter_config='lr=4e-5;batch=32;AdamW;wd=0.01', placement_type='table', placement_section='Method', user_name='Jane Thompson', model_name='GraphCodeBERT', size='0.42B', version_no='1.0', dataset_name='Spider-SQL-Benchmark'}
+TaskSpecificPublication{PubID=389, ResultID=1068, title='Ensemble Learning for Robust Predictions', venue='AAAI', run_type='zero-shot', f1_score=0.74, accuracy=0.75, hyperparameter_config='lr=3e-5;batch=64;AdamW', placement_type='figure', placement_section='Method', user_name='Steven Baker', model_name='DeepSeekCoder-6.7B', size='6.7B', version_no='1.0', dataset_name='Spider-SQL-Benchmark'}
+TaskSpecificPublication{PubID=389, ResultID=1121, title='Ensemble Learning for Robust Predictions', venue='AAAI', run_type='full fine-tuning', f1_score=0.78, accuracy=0.96, hyperparameter_config='lr=2e-5;batch=48;AdamW;warmup=100', placement_type='figure', placement_section='Introduction', user_name='Hannah Hill', model_name='Qwen2.5-Coder-1.5B', size='1.5B', version_no='3.0', dataset_name='Juliet-TestSuite-C'}
+TaskSpecificPublication{PubID=395, ResultID=1233, title='Distributed Training Techniques for Large Models', venue='SC', run_type='few-shot', f1_score=0.72, accuracy=0.73, hyperparameter_config='lr=1e-5;batch=16;AdamW', placement_type='table', placement_section='Experiments', user_name='Ethan King', model_name='Qwen2.5-Coder-1.5B', size='1.5B', version_no='4.0', dataset_name='BigVul'}
+TaskSpecificPublication{PubID=395, ResultID=1270, title='Distributed Training Techniques for Large Models', venue='SC', run_type='instruction fine-tuning', f1_score=0.82, accuracy=0.91, hyperparameter_config='lr=3e-5;batch=64;AdamW', placement_type='figure', placement_section='Experiments', user_name='Daniel Wright', model_name='Qwen2.5-Coder-1.5B', size='1.5B', version_no='3.0', dataset_name='Bugspots-HistoricalCommits'}
+TaskSpecificPublication{PubID=403, ResultID=1160, title='Graph Transformer Networks for Complex Graphs', venue='NeurIPS', run_type='in-context learning', f1_score=0.70, accuracy=0.72, hyperparameter_config='lr=2e-5;batch=32;AdamW', placement_type='table', placement_section='Experiments', user_name='Jane Thompson', model_name='CodeLlama-34B', size='34B', version_no='3.0', dataset_name='CodeSearchNet-JavaScript'}
+TaskSpecificPublication{PubID=411, ResultID=1215, title='Reward Modeling for Preference-Based Optimization', venue='NeurIPS', run_type='evaluation', f1_score=0.87, accuracy=0.87, hyperparameter_config='lr=1e-4;batch=16;SGD', placement_type='figure', placement_section='Method', user_name='Patrick Adams', model_name='GraphCodeBERT', size='0.42B', version_no='1.0', dataset_name='BigVul'}
+TaskSpecificPublication{PubID=417, ResultID=1164, title='Long-Context LLMs for Document Understanding', venue='NeurIPS', run_type='full fine-tuning', f1_score=0.72, accuracy=0.96, hyperparameter_config='lr=8e-6;batch=24;Adagrad', placement_type='figure', placement_section='Results', user_name='Angela Martin', model_name='Qwen2.5-Coder-7B', size='7B', version_no='1.0', dataset_name='SAP-MetricsDB'}
+TaskSpecificPublication{PubID=417, ResultID=1169, title='Long-Context LLMs for Document Understanding', venue='NeurIPS', run_type='evaluation', f1_score=0.88, accuracy=0.95, hyperparameter_config='lr=2e-4;batch=64;Lion', placement_type='paragraph', placement_section='Introduction', user_name='Megan White', model_name='CodeBERT', size='0.4B', version_no='2.0', dataset_name='NaturalQuestions'}
+TaskSpecificPublication{PubID=418, ResultID=1121, title='Efficient Fine-Tuning with Low-Rank Adaptation', venue='ICLR', run_type='full fine-tuning', f1_score=0.78, accuracy=0.96, hyperparameter_config='lr=2e-5;batch=48;AdamW;warmup=100', placement_type='paragraph', placement_section='Related Work', user_name='Hannah Hill', model_name='Qwen2.5-Coder-1.5B', size='1.5B', version_no='3.0', dataset_name='Juliet-TestSuite-C'}
+TaskSpecificPublication{PubID=426, ResultID=1017, title='Semantic Search Using Vector Embeddings', venue='SIGIR', run_type='LoRA fine-tuning', f1_score=0.81, accuracy=0.96, hyperparameter_config='lr=4e-5;batch=32;AdamW;wd=0.01', placement_type='table', placement_section='Method', user_name='Jane Thompson', model_name='GraphCodeBERT', size='0.42B', version_no='1.0', dataset_name='Spider-SQL-Benchmark'}
+TaskSpecificPublication{PubID=426, ResultID=1230, title='Semantic Search Using Vector Embeddings', venue='SIGIR', run_type='few-shot', f1_score=0.82, accuracy=0.96, hyperparameter_config='lr=3e-5;batch=64;AdamW', placement_type='paragraph', placement_section='Related Work', user_name='Ethan King', model_name='Qwen2.5-Coder-1.5B', size='1.5B', version_no='4.0', dataset_name='BigVul'}
+TaskSpecificPublication{PubID=428, ResultID=1121, title='Query Rewriting for Retrieval Optimization', venue='SIGIR', run_type='full fine-tuning', f1_score=0.78, accuracy=0.96, hyperparameter_config='lr=2e-5;batch=48;AdamW;warmup=100', placement_type='paragraph', placement_section='Introduction', user_name='Hannah Hill', model_name='Qwen2.5-Coder-1.5B', size='1.5B', version_no='3.0', dataset_name='Juliet-TestSuite-C'}
+TaskSpecificPublication{PubID=437, ResultID=1233, title='Bug Report Classification Using Neural Text Models', venue='MSR', run_type='few-shot', f1_score=0.72, accuracy=0.73, hyperparameter_config='lr=1e-5;batch=16;AdamW', placement_type='figure', placement_section='Related Work', user_name='Ethan King', model_name='Qwen2.5-Coder-1.5B', size='1.5B', version_no='4.0', dataset_name='BigVul'}
+TaskSpecificPublication{PubID=439, ResultID=1164, title='Software Documentation Generation Using LLMs', venue='ICSE', run_type='full fine-tuning', f1_score=0.72, accuracy=0.96, hyperparameter_config='lr=8e-6;batch=24;Adagrad', placement_type='table', placement_section='Method', user_name='Angela Martin', model_name='Qwen2.5-Coder-7B', size='7B', version_no='1.0', dataset_name='SAP-MetricsDB'}
+TaskSpecificPublication{PubID=441, ResultID=1270, title='Multi-View Learning for Software Engineering Tasks', venue='ICSE', run_type='instruction fine-tuning', f1_score=0.82, accuracy=0.91, hyperparameter_config='lr=3e-5;batch=64;AdamW', placement_type='paragraph', placement_section='Method', user_name='Daniel Wright', model_name='Qwen2.5-Coder-1.5B', size='1.5B', version_no='3.0', dataset_name='Bugspots-HistoricalCommits'}
+TaskSpecificPublication{PubID=449, ResultID=1225, title='Secure Coding Assistance with Generative Models', venue='ICSE', run_type='in-context learning', f1_score=0.71, accuracy=0.73, hyperparameter_config='lr=8e-6;batch=24;Adagrad', placement_type='figure', placement_section='Results', user_name='Patrick Baker', model_name='DeepSeekCoder-1.3B', size='1.3B', version_no='1.0', dataset_name='CodeSearchNet-Java'}
+TaskSpecificPublication{PubID=453, ResultID=1085, title='Detecting API Misuse Patterns Using ML Models', venue='ICPC', run_type='fine-tuning', f1_score=0.84, accuracy=0.90, hyperparameter_config='lr=1e-4;batch=16;SGD', placement_type='figure', placement_section='Related Work', user_name='Hannah Hill', model_name='CodeLlama-34B', size='34B', version_no='1.0', dataset_name='Spider-SQL-Benchmark'}
+TaskSpecificPublication{PubID=454, ResultID=1160, title='Static Analysis for C++ Templates Using LLMs', venue='ASE', run_type='in-context learning', f1_score=0.70, accuracy=0.72, hyperparameter_config='lr=2e-5;batch=32;AdamW', placement_type='table', placement_section='Related Work', user_name='Jane Thompson', model_name='CodeLlama-34B', size='34B', version_no='3.0', dataset_name='CodeSearchNet-JavaScript'}
+TaskSpecificPublication{PubID=456, ResultID=1068, title='Code Obfuscation Deobfuscation with LLMs', venue='S&P', run_type='zero-shot', f1_score=0.74, accuracy=0.75, hyperparameter_config='lr=3e-5;batch=64;AdamW', placement_type='figure', placement_section='Introduction', user_name='Steven Baker', model_name='DeepSeekCoder-6.7B', size='6.7B', version_no='1.0', dataset_name='Spider-SQL-Benchmark'}
+TaskSpecificPublication{PubID=467, ResultID=1150, title='Program Synthesis Using Constrained Decoding', venue='NeurIPS', run_type='fine-tuning', f1_score=0.70, accuracy=0.90, hyperparameter_config='lr=2e-5;batch=48;AdamW;warmup=100', placement_type='paragraph', placement_section='Experiments', user_name='Karen Green', model_name='Qwen2.5-Coder-7B', size='7B', version_no='1.0', dataset_name='SAP-MetricsDB'}
+TaskSpecificPublication{PubID=470, ResultID=1130, title='Software Testing Case Generation Using LLMs', venue='ISSTA', run_type='instruction fine-tuning', f1_score=0.72, accuracy=0.85, hyperparameter_config='lr=5e-6;batch=8;AdamW', placement_type='paragraph', placement_section='Related Work', user_name='Amy Walker', model_name='Qwen2.5-Coder-1.5B', size='1.5B', version_no='4.0', dataset_name='Juliet-TestSuite-C'}
+TaskSpecificPublication{PubID=470, ResultID=1157, title='Software Testing Case Generation Using LLMs', venue='ISSTA', run_type='in-context learning', f1_score=0.74, accuracy=0.82, hyperparameter_config='lr=1e-4;batch=16;SGD', placement_type='figure', placement_section='Related Work', user_name='Jane Thompson', model_name='CodeLlama-34B', size='34B', version_no='3.0', dataset_name='CodeSearchNet-JavaScript'}
+TaskSpecificPublication{PubID=470, ResultID=1225, title='Software Testing Case Generation Using LLMs', venue='ISSTA', run_type='in-context learning', f1_score=0.71, accuracy=0.73, hyperparameter_config='lr=8e-6;batch=24;Adagrad', placement_type='paragraph', placement_section='Introduction', user_name='Patrick Baker', model_name='DeepSeekCoder-1.3B', size='1.3B', version_no='1.0', dataset_name='CodeSearchNet-Java'}
+TaskSpecificPublication{PubID=476, ResultID=1215, title='Repository Embedding Models for Project Evolution', venue='MSR', run_type='evaluation', f1_score=0.87, accuracy=0.87, hyperparameter_config='lr=1e-4;batch=16;SGD', placement_type='paragraph', placement_section='Results', user_name='Patrick Adams', model_name='GraphCodeBERT', size='0.42B', version_no='1.0', dataset_name='BigVul'}
+TaskSpecificPublication{PubID=479, ResultID=1233, title='Detecting Hardcoded Secrets Using ML Embeddings', venue='USENIX', run_type='few-shot', f1_score=0.72, accuracy=0.73, hyperparameter_config='lr=1e-5;batch=16;AdamW', placement_type='paragraph', placement_section='Experiments', user_name='Ethan King', model_name='Qwen2.5-Coder-1.5B', size='1.5B', version_no='4.0', dataset_name='BigVul'}
+TaskSpecificPublication{PubID=482, ResultID=1164, title='Predicting Build Failures Using Sequence Models', venue='ASE', run_type='full fine-tuning', f1_score=0.72, accuracy=0.96, hyperparameter_config='lr=8e-6;batch=24;Adagrad', placement_type='table', placement_section='Introduction', user_name='Angela Martin', model_name='Qwen2.5-Coder-7B', size='7B', version_no='1.0', dataset_name='SAP-MetricsDB'}
+TaskSpecificPublication{PubID=485, ResultID=1225, title='Learning Performance Models for Cloud Applications', venue='SoCC', run_type='in-context learning', f1_score=0.71, accuracy=0.73, hyperparameter_config='lr=8e-6;batch=24;Adagrad', placement_type='paragraph', placement_section='Results', user_name='Patrick Baker', model_name='DeepSeekCoder-1.3B', size='1.3B', version_no='1.0', dataset_name='CodeSearchNet-Java'}
+TaskSpecificPublication{PubID=487, ResultID=1015, title='Neural Architectures for Large-Scale Codebases', venue='OOPSLA', run_type='LoRA fine-tuning', f1_score=0.89, accuracy=0.94, hyperparameter_config='lr=5e-5;batch=32;SGD', placement_type='table', placement_section='Method', user_name='Jane Thompson', model_name='GraphCodeBERT', size='0.42B', version_no='1.0', dataset_name='Spider-SQL-Benchmark'}
+TaskSpecificPublication{PubID=496, ResultID=1150, title='Predicting Software Risks Using Hybrid Models', venue='SQJ', run_type='fine-tuning', f1_score=0.70, accuracy=0.90, hyperparameter_config='lr=2e-5;batch=48;AdamW;warmup=100', placement_type='paragraph', placement_section='Related Work', user_name='Karen Green', model_name='Qwen2.5-Coder-7B', size='7B', version_no='1.0', dataset_name='SAP-MetricsDB'}
+TaskSpecificPublication{PubID=499, ResultID=1015, title='Multimodal Analysis for Software Artifact Linkage', venue='ICSE', run_type='LoRA fine-tuning', f1_score=0.89, accuracy=0.94, hyperparameter_config='lr=5e-5;batch=32;SGD', placement_type='table', placement_section='Results', user_name='Jane Thompson', model_name='GraphCodeBERT', size='0.42B', version_no='1.0', dataset_name='Spider-SQL-Benchmark'}
+64 vulnerability detection publications found.
+
+--------------------------------------------------------------
+========== OUTPUT FINISHED ==========

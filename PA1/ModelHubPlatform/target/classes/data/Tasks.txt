@@ -1,0 +1,21 @@
+TaskID	task_name
+7001	Vulnerability Detection
+7002	Code Understanding
+7003	Code Documentation Generation
+7004	Code Search
+7005	Sentiment Classification
+7006	Text Classification
+7007	Named Entity Recognition
+7008	Machine Translation
+7009	Text Summarization
+7010	Question Answering
+7011	Image Classification
+7012	Object Detection
+7013	Image Segmentation
+7014	Speech Recognition
+7015	Speaker Identification
+7016	Time Series Forecasting
+7017	Anomaly Detection
+7018	Recommendation Systems
+7019	Language Modeling
+7020	Multimodal Learning

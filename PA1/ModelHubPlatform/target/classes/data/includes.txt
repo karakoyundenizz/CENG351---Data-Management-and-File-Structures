@@ -1,0 +1,895 @@
+PubID	ResultID	placement_type	placement_section
+340	1001	paragraph	Related Work
+413	1001	paragraph	Related Work
+416	1001	paragraph	Experiments
+349	1001	figure	Related Work
+388	1002	paragraph	Results
+325	1002	figure	Introduction
+464	1002	paragraph	Results
+313	1003	table	Introduction
+429	1003	table	Method
+422	1004	table	Method
+353	1004	table	Results
+373	1004	figure	Introduction
+307	1004	figure	Introduction
+487	1004	paragraph	Related Work
+382	1005	paragraph	Related Work
+370	1005	paragraph	Method
+350	1005	paragraph	Experiments
+394	1005	figure	Results
+343	1006	table	Results
+467	1006	table	Method
+347	1006	paragraph	Experiments
+493	1006	paragraph	Experiments
+491	1007	table	Experiments
+440	1007	paragraph	Results
+422	1007	paragraph	Experiments
+474	1007	paragraph	Results
+362	1008	paragraph	Related Work
+432	1008	figure	Experiments
+322	1008	paragraph	Results
+422	1009	figure	Experiments
+456	1009	figure	Method
+475	1009	paragraph	Method
+460	1009	paragraph	Method
+440	1009	figure	Related Work
+439	1010	paragraph	Experiments
+350	1010	figure	Introduction
+433	1011	table	Related Work
+387	1011	table	Results
+442	1011	table	Introduction
+326	1011	table	Introduction
+441	1011	paragraph	Related Work
+401	1012	paragraph	Related Work
+440	1013	table	Method
+360	1014	paragraph	Experiments
+420	1014	paragraph	Experiments
+405	1014	table	Method
+395	1014	paragraph	Method
+335	1014	paragraph	Experiments
+487	1015	table	Method
+358	1015	figure	Experiments
+499	1015	table	Results
+369	1015	paragraph	Introduction
+312	1015	figure	Method
+446	1016	paragraph	Results
+491	1016	paragraph	Introduction
+323	1016	table	Method
+470	1016	table	Experiments
+389	1017	table	Method
+426	1017	table	Method
+304	1018	table	Related Work
+412	1018	paragraph	Experiments
+346	1018	paragraph	Method
+311	1018	paragraph	Results
+458	1018	figure	Results
+446	1019	paragraph	Experiments
+396	1019	paragraph	Related Work
+485	1020	figure	Experiments
+396	1020	figure	Method
+322	1021	figure	Results
+310	1021	table	Related Work
+416	1021	table	Related Work
+498	1021	table	Related Work
+367	1022	paragraph	Method
+302	1023	paragraph	Experiments
+379	1023	paragraph	Introduction
+346	1024	figure	Experiments
+406	1024	paragraph	Introduction
+449	1024	figure	Experiments
+415	1024	figure	Results
+397	1025	table	Results
+362	1025	paragraph	Introduction
+367	1025	table	Introduction
+378	1025	paragraph	Method
+484	1025	paragraph	Related Work
+446	1026	figure	Introduction
+393	1026	paragraph	Method
+466	1026	figure	Method
+309	1026	table	Method
+486	1026	figure	Introduction
+342	1027	table	Results
+470	1027	paragraph	Introduction
+327	1027	figure	Introduction
+395	1027	paragraph	Related Work
+348	1027	paragraph	Method
+461	1028	paragraph	Results
+432	1028	paragraph	Results
+465	1028	table	Introduction
+387	1028	paragraph	Related Work
+314	1029	table	Results
+444	1029	figure	Results
+358	1029	table	Experiments
+374	1029	paragraph	Introduction
+492	1030	table	Method
+471	1030	paragraph	Method
+431	1030	table	Related Work
+306	1030	table	Experiments
+496	1030	figure	Experiments
+323	1031	figure	Introduction
+346	1032	figure	Method
+482	1032	table	Method
+309	1032	figure	Related Work
+345	1033	figure	Method
+413	1033	paragraph	Related Work
+354	1033	table	Results
+372	1034	figure	Results
+375	1034	figure	Results
+489	1035	figure	Results
+429	1036	table	Introduction
+490	1037	table	Method
+367	1037	figure	Results
+301	1037	figure	Results
+432	1038	figure	Experiments
+384	1038	table	Experiments
+452	1039	figure	Results
+338	1039	paragraph	Experiments
+418	1039	figure	Introduction
+358	1039	table	Method
+307	1039	paragraph	Results
+375	1040	table	Method
+434	1040	paragraph	Method
+448	1040	table	Related Work
+360	1040	figure	Experiments
+423	1041	table	Introduction
+477	1041	figure	Experiments
+341	1041	figure	Method
+419	1041	paragraph	Method
+318	1042	figure	Experiments
+373	1042	paragraph	Related Work
+455	1042	table	Results
+381	1043	figure	Results
+380	1043	table	Related Work
+307	1043	paragraph	Related Work
+382	1043	paragraph	Introduction
+440	1044	paragraph	Related Work
+354	1044	paragraph	Related Work
+464	1044	figure	Method
+386	1044	table	Introduction
+322	1045	paragraph	Method
+301	1046	figure	Experiments
+364	1046	table	Related Work
+406	1046	table	Results
+303	1047	paragraph	Results
+398	1047	table	Experiments
+373	1048	figure	Related Work
+475	1048	table	Experiments
+445	1048	paragraph	Method
+384	1049	table	Experiments
+411	1049	paragraph	Method
+464	1049	figure	Method
+434	1049	table	Introduction
+354	1050	figure	Related Work
+302	1051	paragraph	Method
+414	1051	table	Results
+454	1051	figure	Experiments
+321	1051	table	Introduction
+493	1052	figure	Method
+467	1052	paragraph	Method
+421	1053	paragraph	Experiments
+443	1053	figure	Experiments
+353	1054	paragraph	Results
+460	1054	paragraph	Experiments
+485	1054	paragraph	Experiments
+370	1054	figure	Experiments
+380	1055	paragraph	Introduction
+432	1056	table	Experiments
+450	1056	figure	Method
+494	1056	paragraph	Related Work
+475	1056	table	Introduction
+356	1057	figure	Experiments
+387	1058	table	Related Work
+312	1058	paragraph	Experiments
+439	1059	figure	Method
+392	1059	paragraph	Introduction
+462	1059	table	Experiments
+437	1059	table	Method
+445	1059	table	Introduction
+454	1060	figure	Results
+333	1060	figure	Experiments
+489	1060	figure	Related Work
+342	1061	paragraph	Method
+377	1062	table	Experiments
+373	1063	figure	Experiments
+452	1063	table	Method
+388	1063	figure	Method
+330	1063	paragraph	Results
+371	1063	paragraph	Method
+498	1064	figure	Method
+318	1065	table	Method
+442	1065	figure	Experiments
+401	1065	paragraph	Introduction
+460	1065	figure	Related Work
+370	1065	figure	Introduction
+493	1066	figure	Introduction
+375	1066	paragraph	Introduction
+307	1066	paragraph	Introduction
+403	1066	paragraph	Method
+424	1067	paragraph	Method
+392	1067	table	Results
+463	1067	paragraph	Experiments
+409	1067	paragraph	Related Work
+480	1067	table	Results
+320	1068	paragraph	Method
+389	1068	figure	Method
+456	1068	figure	Introduction
+354	1068	figure	Introduction
+350	1068	paragraph	Method
+341	1069	paragraph	Introduction
+442	1070	figure	Related Work
+428	1070	figure	Related Work
+361	1071	paragraph	Introduction
+375	1071	table	Related Work
+442	1071	paragraph	Related Work
+375	1072	figure	Results
+421	1072	paragraph	Experiments
+425	1073	table	Related Work
+355	1073	table	Results
+413	1073	figure	Method
+421	1073	figure	Introduction
+428	1074	paragraph	Results
+372	1074	paragraph	Experiments
+302	1074	figure	Experiments
+328	1074	paragraph	Related Work
+468	1074	table	Introduction
+402	1075	figure	Results
+381	1075	figure	Introduction
+489	1076	figure	Method
+303	1076	paragraph	Introduction
+494	1077	paragraph	Experiments
+487	1077	figure	Related Work
+397	1077	table	Experiments
+379	1077	table	Results
+423	1078	paragraph	Introduction
+469	1078	table	Method
+336	1078	table	Introduction
+454	1078	table	Method
+330	1079	figure	Introduction
+397	1079	figure	Introduction
+399	1079	figure	Results
+475	1080	table	Results
+425	1080	figure	Related Work
+374	1080	figure	Experiments
+377	1080	figure	Related Work
+488	1080	figure	Introduction
+388	1081	figure	Introduction
+329	1081	figure	Related Work
+427	1082	figure	Introduction
+460	1082	table	Experiments
+480	1082	paragraph	Introduction
+404	1082	figure	Experiments
+466	1083	table	Introduction
+379	1083	paragraph	Related Work
+447	1083	paragraph	Experiments
+365	1084	table	Results
+303	1084	table	Experiments
+384	1084	figure	Introduction
+300	1085	paragraph	Introduction
+453	1085	figure	Related Work
+473	1086	table	Results
+467	1087	table	Results
+404	1087	figure	Method
+387	1088	paragraph	Method
+352	1088	figure	Method
+303	1088	table	Results
+325	1088	paragraph	Experiments
+447	1089	table	Results
+438	1089	paragraph	Method
+309	1089	paragraph	Related Work
+474	1089	figure	Results
+397	1089	figure	Related Work
+321	1090	figure	Experiments
+349	1090	figure	Results
+467	1091	paragraph	Related Work
+370	1091	figure	Method
+422	1092	table	Introduction
+433	1092	figure	Introduction
+419	1092	table	Experiments
+321	1092	paragraph	Related Work
+391	1093	figure	Method
+413	1093	paragraph	Related Work
+499	1093	table	Method
+497	1094	table	Method
+362	1094	paragraph	Introduction
+430	1094	paragraph	Related Work
+359	1094	figure	Introduction
+479	1095	table	Method
+372	1095	figure	Method
+339	1095	paragraph	Experiments
+439	1095	table	Introduction
+338	1096	figure	Method
+494	1096	paragraph	Related Work
+423	1097	paragraph	Results
+387	1097	table	Method
+388	1097	table	Results
+498	1098	figure	Related Work
+353	1099	figure	Related Work
+325	1100	figure	Results
+467	1100	paragraph	Related Work
+402	1100	paragraph	Related Work
+465	1100	figure	Results
+416	1101	table	Experiments
+433	1101	paragraph	Results
+340	1101	figure	Introduction
+467	1102	paragraph	Experiments
+425	1102	figure	Related Work
+440	1102	figure	Experiments
+402	1103	paragraph	Related Work
+438	1104	paragraph	Results
+470	1105	figure	Results
+300	1105	table	Results
+390	1105	paragraph	Related Work
+450	1105	table	Introduction
+376	1105	paragraph	Method
+407	1106	paragraph	Method
+356	1106	figure	Experiments
+482	1106	paragraph	Related Work
+345	1106	figure	Introduction
+470	1106	figure	Introduction
+331	1107	figure	Results
+468	1107	table	Results
+307	1107	figure	Introduction
+475	1108	table	Experiments
+302	1108	figure	Introduction
+398	1109	paragraph	Introduction
+353	1109	table	Results
+349	1109	figure	Introduction
+395	1109	table	Introduction
+343	1110	table	Related Work
+308	1110	paragraph	Results
+496	1110	figure	Results
+392	1111	table	Method
+471	1111	figure	Method
+436	1111	paragraph	Related Work
+344	1111	table	Experiments
+366	1112	figure	Results
+315	1112	paragraph	Introduction
+337	1112	table	Related Work
+368	1112	figure	Introduction
+394	1113	table	Introduction
+495	1114	paragraph	Experiments
+382	1115	figure	Introduction
+412	1115	table	Related Work
+310	1115	paragraph	Experiments
+436	1116	figure	Introduction
+373	1116	figure	Method
+385	1116	paragraph	Experiments
+332	1116	paragraph	Results
+483	1117	figure	Related Work
+323	1117	figure	Introduction
+470	1117	table	Method
+465	1117	table	Related Work
+470	1118	paragraph	Method
+409	1118	paragraph	Method
+347	1118	figure	Introduction
+391	1119	figure	Experiments
+333	1119	paragraph	Related Work
+367	1119	figure	Introduction
+455	1120	figure	Experiments
+438	1120	table	Experiments
+335	1120	figure	Results
+307	1120	paragraph	Results
+406	1120	table	Method
+372	1121	paragraph	Method
+428	1121	paragraph	Introduction
+418	1121	paragraph	Related Work
+375	1121	paragraph	Results
+389	1121	figure	Introduction
+364	1122	figure	Introduction
+317	1122	figure	Results
+427	1123	figure	Introduction
+499	1124	figure	Method
+470	1124	paragraph	Experiments
+323	1124	paragraph	Experiments
+359	1125	figure	Results
+342	1125	figure	Introduction
+427	1126	figure	Method
+428	1126	paragraph	Method
+369	1126	figure	Method
+433	1127	table	Experiments
+459	1127	figure	Results
+484	1128	paragraph	Method
+347	1129	table	Results
+376	1129	paragraph	Experiments
+319	1130	table	Experiments
+379	1130	table	Introduction
+470	1130	paragraph	Related Work
+327	1130	figure	Results
+427	1131	figure	Experiments
+385	1132	table	Method
+370	1133	table	Method
+318	1133	table	Results
+437	1133	table	Introduction
+476	1133	table	Results
+486	1133	table	Results
+403	1134	table	Method
+474	1135	paragraph	Related Work
+338	1135	table	Method
+372	1136	table	Introduction
+385	1137	table	Related Work
+475	1137	paragraph	Introduction
+320	1137	paragraph	Method
+323	1137	figure	Experiments
+349	1138	table	Method
+451	1138	paragraph	Experiments
+388	1138	paragraph	Related Work
+304	1138	figure	Results
+375	1139	paragraph	Method
+428	1139	paragraph	Experiments
+343	1139	paragraph	Introduction
+465	1139	table	Results
+486	1140	table	Experiments
+314	1140	paragraph	Method
+358	1140	figure	Related Work
+494	1140	figure	Related Work
+370	1141	table	Experiments
+344	1141	table	Experiments
+489	1141	paragraph	Method
+408	1141	table	Results
+415	1142	table	Related Work
+301	1142	table	Introduction
+365	1142	table	Method
+414	1142	table	Results
+345	1143	table	Introduction
+408	1143	figure	Results
+493	1143	table	Introduction
+425	1143	figure	Related Work
+458	1144	figure	Introduction
+471	1144	table	Method
+332	1144	paragraph	Experiments
+330	1144	figure	Method
+366	1144	figure	Introduction
+486	1145	figure	Introduction
+353	1145	figure	Results
+487	1146	paragraph	Results
+349	1146	figure	Experiments
+403	1146	paragraph	Related Work
+468	1147	table	Results
+436	1147	paragraph	Experiments
+406	1147	figure	Related Work
+319	1147	paragraph	Related Work
+307	1147	figure	Method
+430	1148	table	Experiments
+448	1148	figure	Method
+331	1148	table	Related Work
+421	1148	table	Introduction
+465	1149	table	Results
+314	1150	paragraph	Method
+467	1150	paragraph	Experiments
+496	1150	paragraph	Related Work
+327	1151	table	Experiments
+319	1151	table	Introduction
+444	1151	table	Introduction
+399	1151	paragraph	Related Work
+411	1151	figure	Introduction
+403	1152	table	Method
+432	1153	paragraph	Results
+398	1153	paragraph	Related Work
+358	1153	table	Experiments
+307	1153	figure	Related Work
+402	1154	paragraph	Introduction
+474	1155	table	Related Work
+312	1155	figure	Results
+327	1155	figure	Experiments
+488	1155	table	Experiments
+415	1155	figure	Related Work
+437	1156	paragraph	Related Work
+470	1157	figure	Related Work
+368	1157	table	Results
+414	1158	paragraph	Introduction
+423	1159	table	Method
+373	1159	table	Results
+409	1159	figure	Related Work
+447	1159	figure	Results
+335	1159	paragraph	Introduction
+403	1160	table	Experiments
+454	1160	table	Related Work
+317	1160	figure	Related Work
+355	1160	table	Experiments
+381	1161	table	Experiments
+485	1161	table	Method
+481	1162	paragraph	Related Work
+448	1162	figure	Results
+394	1162	paragraph	Experiments
+433	1162	figure	Method
+392	1163	paragraph	Experiments
+334	1163	figure	Related Work
+480	1163	paragraph	Introduction
+460	1163	paragraph	Introduction
+404	1163	figure	Method
+417	1164	figure	Results
+439	1164	table	Method
+356	1164	figure	Introduction
+482	1164	table	Introduction
+301	1165	figure	Experiments
+391	1165	table	Experiments
+424	1165	figure	Results
+466	1165	paragraph	Related Work
+402	1166	paragraph	Experiments
+499	1166	figure	Related Work
+452	1166	figure	Related Work
+338	1166	table	Introduction
+434	1167	paragraph	Experiments
+378	1167	paragraph	Related Work
+469	1167	table	Introduction
+462	1167	table	Introduction
+304	1168	figure	Introduction
+417	1169	paragraph	Introduction
+352	1170	paragraph	Results
+365	1170	figure	Method
+331	1171	paragraph	Related Work
+341	1172	table	Results
+382	1173	table	Results
+306	1174	table	Related Work
+384	1174	table	Introduction
+389	1175	table	Experiments
+497	1176	table	Results
+300	1176	figure	Related Work
+323	1176	paragraph	Method
+352	1176	figure	Results
+462	1177	table	Related Work
+465	1178	paragraph	Experiments
+480	1178	table	Experiments
+425	1179	figure	Introduction
+456	1180	table	Method
+362	1180	table	Method
+386	1180	table	Introduction
+378	1180	paragraph	Introduction
+485	1180	figure	Related Work
+374	1181	paragraph	Related Work
+409	1181	paragraph	Results
+311	1181	paragraph	Experiments
+399	1182	figure	Results
+416	1182	paragraph	Introduction
+462	1183	table	Method
+399	1183	table	Introduction
+454	1183	table	Introduction
+432	1183	paragraph	Related Work
+397	1184	paragraph	Related Work
+336	1185	paragraph	Method
+443	1185	paragraph	Related Work
+369	1185	figure	Experiments
+317	1185	table	Related Work
+448	1185	figure	Results
+398	1186	table	Method
+361	1186	table	Results
+477	1186	table	Related Work
+468	1187	table	Experiments
+441	1188	paragraph	Introduction
+455	1188	paragraph	Results
+469	1189	table	Results
+376	1189	table	Method
+499	1189	paragraph	Related Work
+394	1189	paragraph	Results
+376	1190	figure	Experiments
+402	1190	figure	Related Work
+437	1190	paragraph	Method
+478	1190	figure	Introduction
+397	1190	figure	Method
+497	1191	table	Introduction
+491	1191	paragraph	Experiments
+318	1192	paragraph	Introduction
+342	1192	figure	Results
+314	1192	figure	Introduction
+376	1192	figure	Results
+344	1193	table	Results
+417	1193	table	Results
+402	1193	figure	Introduction
+351	1193	figure	Introduction
+387	1194	table	Experiments
+403	1194	figure	Experiments
+482	1194	paragraph	Introduction
+399	1195	table	Experiments
+350	1195	table	Method
+366	1195	table	Results
+457	1195	table	Method
+449	1195	table	Introduction
+344	1196	table	Experiments
+369	1196	figure	Method
+324	1196	figure	Experiments
+312	1196	table	Introduction
+492	1197	paragraph	Results
+310	1197	figure	Introduction
+314	1198	table	Results
+382	1199	paragraph	Introduction
+308	1199	figure	Method
+341	1200	table	Results
+478	1200	paragraph	Introduction
+485	1200	table	Related Work
+495	1201	paragraph	Results
+457	1201	figure	Method
+431	1201	paragraph	Experiments
+373	1201	table	Related Work
+330	1201	figure	Results
+423	1202	paragraph	Related Work
+338	1202	table	Method
+376	1203	table	Results
+402	1203	table	Experiments
+483	1203	paragraph	Introduction
+442	1203	table	Related Work
+359	1203	figure	Related Work
+322	1204	paragraph	Experiments
+368	1204	paragraph	Method
+416	1204	paragraph	Results
+421	1205	table	Related Work
+403	1206	table	Method
+460	1206	figure	Related Work
+429	1207	figure	Introduction
+380	1207	table	Method
+343	1207	table	Experiments
+402	1207	paragraph	Method
+371	1208	paragraph	Related Work
+361	1208	paragraph	Method
+400	1208	table	Method
+447	1208	table	Results
+314	1209	table	Related Work
+380	1209	table	Method
+437	1209	paragraph	Introduction
+465	1209	figure	Introduction
+478	1209	figure	Experiments
+469	1210	paragraph	Experiments
+383	1211	figure	Related Work
+337	1211	table	Related Work
+377	1211	paragraph	Experiments
+371	1212	figure	Related Work
+340	1212	paragraph	Method
+357	1212	paragraph	Related Work
+455	1213	figure	Introduction
+435	1214	figure	Method
+307	1214	paragraph	Introduction
+341	1214	figure	Method
+411	1215	figure	Method
+476	1215	paragraph	Results
+407	1216	figure	Introduction
+411	1216	paragraph	Experiments
+499	1216	paragraph	Method
+366	1216	figure	Related Work
+466	1217	figure	Method
+468	1218	figure	Experiments
+381	1218	paragraph	Experiments
+493	1218	paragraph	Related Work
+334	1218	table	Related Work
+357	1219	paragraph	Experiments
+490	1219	figure	Method
+483	1220	table	Related Work
+366	1221	paragraph	Introduction
+494	1221	figure	Experiments
+321	1221	figure	Introduction
+312	1222	table	Related Work
+460	1223	figure	Related Work
+417	1223	paragraph	Introduction
+357	1224	figure	Method
+321	1224	table	Related Work
+325	1224	paragraph	Introduction
+352	1224	table	Method
+449	1225	figure	Results
+308	1225	paragraph	Method
+381	1225	figure	Introduction
+485	1225	paragraph	Results
+470	1225	paragraph	Introduction
+344	1226	figure	Results
+307	1227	paragraph	Method
+354	1227	table	Method
+369	1227	table	Results
+368	1227	paragraph	Results
+448	1228	figure	Method
+438	1228	figure	Results
+394	1228	table	Related Work
+480	1228	figure	Introduction
+409	1228	figure	Method
+491	1229	figure	Results
+300	1229	table	Experiments
+400	1229	table	Results
+308	1229	paragraph	Introduction
+344	1230	table	Method
+325	1230	figure	Experiments
+426	1230	paragraph	Related Work
+353	1231	paragraph	Experiments
+339	1231	table	Introduction
+432	1231	paragraph	Related Work
+312	1232	table	Results
+437	1233	figure	Related Work
+395	1233	table	Experiments
+479	1233	paragraph	Experiments
+334	1234	figure	Related Work
+498	1234	paragraph	Method
+444	1235	paragraph	Related Work
+329	1235	figure	Experiments
+352	1235	figure	Method
+433	1235	figure	Method
+326	1235	paragraph	Results
+429	1236	figure	Related Work
+351	1236	figure	Experiments
+358	1236	table	Related Work
+389	1236	paragraph	Results
+450	1237	table	Related Work
+475	1238	figure	Method
+468	1238	figure	Related Work
+417	1238	table	Results
+453	1238	paragraph	Method
+497	1238	figure	Experiments
+415	1239	table	Related Work
+304	1240	paragraph	Related Work
+469	1240	paragraph	Experiments
+313	1240	figure	Experiments
+498	1240	table	Method
+389	1240	paragraph	Related Work
+310	1241	figure	Experiments
+425	1241	paragraph	Introduction
+404	1241	paragraph	Results
+417	1242	paragraph	Related Work
+358	1242	paragraph	Introduction
+463	1243	figure	Method
+374	1243	table	Results
+343	1243	paragraph	Experiments
+327	1243	table	Method
+469	1244	paragraph	Method
+470	1244	paragraph	Results
+398	1244	paragraph	Method
+410	1244	figure	Results
+397	1244	figure	Method
+407	1245	figure	Experiments
+377	1245	figure	Related Work
+415	1245	paragraph	Method
+463	1245	table	Experiments
+353	1245	figure	Related Work
+417	1246	figure	Experiments
+357	1246	paragraph	Experiments
+472	1246	figure	Method
+319	1246	figure	Introduction
+360	1247	table	Method
+438	1247	paragraph	Experiments
+368	1247	table	Related Work
+486	1248	paragraph	Results
+366	1249	figure	Related Work
+335	1250	figure	Method
+348	1250	paragraph	Results
+413	1251	table	Related Work
+307	1251	table	Introduction
+489	1252	figure	Method
+381	1252	paragraph	Experiments
+449	1252	table	Related Work
+350	1253	figure	Related Work
+433	1253	figure	Introduction
+468	1253	figure	Introduction
+439	1253	paragraph	Method
+371	1253	table	Experiments
+416	1254	figure	Related Work
+426	1254	figure	Results
+315	1255	figure	Experiments
+339	1256	figure	Related Work
+366	1257	table	Experiments
+470	1257	figure	Introduction
+334	1258	table	Method
+489	1258	table	Related Work
+322	1258	table	Results
+329	1258	paragraph	Method
+453	1258	figure	Experiments
+426	1259	figure	Introduction
+476	1259	paragraph	Method
+432	1260	paragraph	Experiments
+374	1260	figure	Experiments
+406	1260	paragraph	Method
+494	1260	paragraph	Results
+343	1261	paragraph	Introduction
+313	1261	table	Method
+327	1261	figure	Results
+450	1262	paragraph	Results
+486	1262	table	Related Work
+461	1262	figure	Results
+357	1263	paragraph	Experiments
+494	1263	figure	Experiments
+308	1263	figure	Related Work
+484	1263	figure	Experiments
+432	1263	figure	Method
+470	1264	figure	Related Work
+365	1264	paragraph	Experiments
+327	1264	paragraph	Method
+411	1264	paragraph	Method
+375	1264	table	Experiments
+334	1265	table	Method
+461	1265	figure	Results
+317	1266	figure	Introduction
+400	1266	paragraph	Method
+373	1267	table	Results
+448	1268	figure	Results
+315	1268	table	Introduction
+384	1268	figure	Introduction
+353	1269	figure	Introduction
+441	1270	paragraph	Method
+395	1270	figure	Experiments
+388	1271	table	Related Work
+472	1271	table	Method
+413	1271	paragraph	Method
+440	1272	figure	Experiments
+362	1272	table	Related Work
+404	1273	table	Method
+446	1274	figure	Method
+444	1274	paragraph	Method
+378	1274	paragraph	Method
+488	1274	figure	Experiments
+332	1274	table	Introduction
+331	1275	table	Results
+408	1276	paragraph	Introduction
+384	1276	table	Results
+350	1276	table	Results
+443	1277	table	Results
+321	1277	table	Results
+332	1277	paragraph	Introduction
+357	1278	figure	Related Work
+392	1279	table	Method
+485	1280	table	Experiments
+449	1280	figure	Introduction
+373	1280	figure	Related Work
+431	1280	table	Experiments
+364	1280	paragraph	Related Work
+475	1281	paragraph	Experiments
+357	1281	paragraph	Experiments
+439	1281	paragraph	Experiments
+450	1281	figure	Results
+459	1282	paragraph	Introduction
+324	1282	table	Method
+332	1282	paragraph	Method
+389	1283	paragraph	Introduction
+455	1283	paragraph	Related Work
+474	1283	paragraph	Introduction
+370	1283	table	Introduction
+464	1284	table	Related Work
+343	1285	table	Related Work
+339	1285	table	Introduction
+408	1285	figure	Related Work
+330	1286	figure	Method
+487	1286	figure	Method
+316	1287	paragraph	Introduction
+384	1288	figure	Experiments
+466	1289	table	Method
+441	1289	figure	Related Work
+362	1289	figure	Results
+400	1289	figure	Introduction
+301	1289	paragraph	Results
+411	1290	paragraph	Method
+317	1291	figure	Introduction
+455	1291	figure	Method
+473	1292	paragraph	Experiments
+491	1292	figure	Method
+415	1292	figure	Results
+408	1292	table	Results
+449	1292	table	Introduction
+407	1293	table	Experiments
+338	1293	paragraph	Experiments
+362	1293	figure	Experiments
+366	1293	figure	Introduction
+396	1293	paragraph	Related Work
+371	1294	figure	Experiments
+455	1294	table	Experiments
+447	1294	paragraph	Experiments
+470	1295	figure	Results
+446	1295	table	Introduction
+367	1295	table	Method
+440	1295	figure	Related Work
+412	1295	table	Related Work
+441	1296	paragraph	Related Work
+424	1296	paragraph	Introduction
+405	1296	table	Method
+489	1297	figure	Experiments
+348	1297	figure	Introduction
+345	1297	figure	Method
+347	1297	paragraph	Introduction
+331	1297	paragraph	Method
+465	1298	paragraph	Introduction
+333	1298	table	Experiments
+371	1298	paragraph	Results
+486	1299	table	Results
+451	1299	paragraph	Experiments
+326	1299	table	Results
+312	1300	paragraph	Related Work
+371	1300	table	Experiments
+314	1300	figure	Related Work
+406	1300	table	Experiments
+305	1095	paragraph	Introduction
+305	1157	paragraph	Related Work
+363	1299	figure	Results
+363	1097	paragraph	Experiments
+363	1101	table	Related Work
+363	1129	figure	Introduction
+363	1184	table	Introduction

@@ -1,0 +1,309 @@
+PIN	ModelID	version_no	DatasetID	run_type
+413915	5028	2.0	9006	LoRA fine-tuning
+534868	5022	1.0	9008	LoRA fine-tuning
+393305	5026	4.0	9046	few-shot
+373000	5032	1.0	9025	evaluation
+464659	5002	1.0	9018	LoRA fine-tuning
+140350	5030	3.0	9030	benchmark evaluation
+238903	5021	1.0	9024	LoRA fine-tuning
+413915	5022	2.0	9029	zero-shot
+382044	5032	4.0	9020	few-shot
+742820	5016	2.0	9036	evaluation
+479879	5019	1.0	9014	full fine-tuning
+464659	5021	3.0	9012	LoRA fine-tuning
+631391	5029	1.0	9022	full fine-tuning
+291376	5013	2.0	9040	in-context learning
+485827	5017	4.0	9044	LoRA fine-tuning
+796438	5021	3.0	9050	evaluation
+714651	5027	1.0	9037	instruction fine-tuning
+197783	5004	3.0	9003	zero-shot
+488372	5024	1.0	9010	full fine-tuning
+282269	5004	1.0	9018	zero-shot
+660384	5028	1.0	9013	ablation study evaluation
+995455	5025	1.0	9047	full fine-tuning
+714651	5030	3.0	9028	evaluation
+472242	5018	5.0	9009	in-context learning
+869646	5003	1.0	9035	fine-tuning
+714651	5009	1.0	9018	fine-tuning
+250448	5026	4.0	9020	evaluation
+829603	5029	3.0	9041	instruction fine-tuning
+925034	5024	4.0	9011	zero-shot
+143426	5026	4.0	9019	instruction fine-tuning
+479879	5030	4.0	9011	ablation study evaluation
+983837	5031	1.0	9001	full fine-tuning
+829603	5021	2.0	9022	instruction fine-tuning
+114698	5012	1.0	9021	in-context learning
+714651	5010	3.0	9025	full fine-tuning
+810380	5024	1.0	9044	fine-tuning
+602263	5010	4.0	9025	instruction fine-tuning
+237927	5026	4.0	9020	zero-shot
+954163	5024	5.0	9001	benchmark evaluation
+651115	5026	1.0	9021	in-context learning
+353910	5018	2.0	9020	instruction fine-tuning
+621636	5011	1.0	9030	fine-tuning
+159864	5021	3.0	9031	evaluation
+464659	5009	3.0	9009	in-context learning
+667426	5029	1.0	9013	instruction fine-tuning
+788351	5011	1.0	9030	full fine-tuning
+756541	5001	2.0	9016	evaluation
+326209	5028	1.0	9003	full fine-tuning
+796438	5018	3.0	9048	instruction fine-tuning
+849046	5026	4.0	9036	ablation study evaluation
+611761	5026	2.0	9028	full fine-tuning
+515631	5029	2.0	9046	LoRA fine-tuning
+710956	5005	1.0	9024	fine-tuning
+164553	5006	1.0	9041	fine-tuning
+624101	5033	1.0	9017	in-context learning
+778612	5002	1.0	9023	fine-tuning
+143641	5008	1.0	9019	LoRA fine-tuning
+411271	5024	1.0	9016	in-context learning
+464659	5022	4.0	9001	few-shot
+470310	5006	1.0	9011	fine-tuning
+666807	5022	3.0	9025	full fine-tuning
+982921	5017	5.0	9007	fine-tuning
+742139	5002	1.0	9027	evaluation
+631391	5029	2.0	9050	in-context learning
+632309	5030	1.0	9034	LoRA fine-tuning
+864703	5003	1.0	9008	in-context learning
+785175	5030	1.0	9045	instruction fine-tuning
+829603	5010	4.0	9027	few-shot
+756541	5018	4.0	9004	evaluation
+102983	5033	1.0	9042	benchmark evaluation
+653158	5029	3.0	9015	full fine-tuning
+667426	5021	1.0	9027	ablation study evaluation
+521088	5022	3.0	9010	in-context learning
+166729	5002	4.0	9020	zero-shot
+143270	5029	4.0	9031	LoRA fine-tuning
+623671	5004	2.0	9012	few-shot
+954163	5026	4.0	9044	LoRA fine-tuning
+602263	5032	2.0	9030	few-shot
+824938	5005	1.0	9032	ablation study evaluation
+479879	5016	3.0	9044	evaluation
+714651	5008	1.0	9013	instruction fine-tuning
+982921	5010	3.0	9024	instruction fine-tuning
+238175	5017	2.0	9016	zero-shot
+421663	5032	2.0	9039	full fine-tuning
+263445	5032	3.0	9027	in-context learning
+613419	5031	2.0	9009	benchmark evaluation
+370367	5031	2.0	9045	LoRA fine-tuning
+526827	5027	4.0	9044	benchmark evaluation
+150511	5031	2.0	9047	in-context learning
+234835	5018	5.0	9019	benchmark evaluation
+611761	5029	4.0	9029	LoRA fine-tuning
+869646	5022	1.0	9045	evaluation
+849046	5010	1.0	9018	LoRA fine-tuning
+796418	5027	2.0	9019	LoRA fine-tuning
+913987	5025	2.0	9040	benchmark evaluation
+446613	5020	1.0	9039	LoRA fine-tuning
+766180	5029	1.0	9006	ablation study evaluation
+234835	5021	4.0	9033	evaluation
+266037	5032	2.0	9047	zero-shot
+869646	5026	3.0	9038	LoRA fine-tuning
+159914	5009	3.0	9027	evaluation
+373000	5027	5.0	9043	LoRA fine-tuning
+296321	5032	1.0	9012	evaluation
+936582	5017	2.0	9017	fine-tuning
+470310	5004	2.0	9042	benchmark evaluation
+689093	5028	3.0	9010	ablation study evaluation
+216758	5009	1.0	9018	ablation study evaluation
+237927	5026	3.0	9041	ablation study evaluation
+283986	5012	1.0	9035	zero-shot
+511228	5021	1.0	9002	instruction fine-tuning
+878930	5025	1.0	9001	evaluation
+651115	5018	3.0	9021	few-shot
+875264	5028	3.0	9046	zero-shot
+621636	5024	5.0	9006	LoRA fine-tuning
+673217	5005	2.0	9002	LoRA fine-tuning
+896369	5032	4.0	9039	LoRA fine-tuning
+318073	5021	2.0	9036	benchmark evaluation
+623671	5022	1.0	9018	instruction fine-tuning
+565766	5024	3.0	9042	in-context learning
+379249	5017	4.0	9041	benchmark evaluation
+134982	5005	2.0	9041	few-shot
+164553	5021	5.0	9034	fine-tuning
+626869	5017	5.0	9031	instruction fine-tuning
+660384	5024	5.0	9028	zero-shot
+158486	5024	4.0	9022	zero-shot
+180187	5025	1.0	9037	ablation study evaluation
+982921	5012	1.0	9039	instruction fine-tuning
+446613	5025	2.0	9019	fine-tuning
+151167	5017	2.0	9041	fine-tuning
+164553	5024	2.0	9033	evaluation
+488372	5011	1.0	9031	evaluation
+197783	5001	3.0	9007	instruction fine-tuning
+824938	5005	1.0	9029	fine-tuning
+413915	5030	1.0	9012	full fine-tuning
+653158	5028	3.0	9005	ablation study evaluation
+411085	5017	5.0	9027	few-shot
+470310	5021	2.0	9016	zero-shot
+862336	5004	2.0	9011	evaluation
+150511	5011	1.0	9042	ablation study evaluation
+140350	5017	3.0	9049	zero-shot
+296952	5004	3.0	9008	LoRA fine-tuning
+296952	5029	1.0	9041	zero-shot
+756541	5016	5.0	9014	full fine-tuning
+611761	5017	5.0	9026	in-context learning
+234835	5011	1.0	9042	benchmark evaluation
+333589	5021	5.0	9021	few-shot
+140350	5021	1.0	9042	fine-tuning
+326209	5013	1.0	9035	instruction fine-tuning
+896369	5008	1.0	9009	few-shot
+582112	5022	1.0	9024	evaluation
+810380	5002	4.0	9027	few-shot
+411271	5001	3.0	9039	instruction fine-tuning
+667426	5002	3.0	9005	LoRA fine-tuning
+869646	5005	1.0	9027	fine-tuning
+869646	5028	2.0	9041	LoRA fine-tuning
+899981	5027	1.0	9012	LoRA fine-tuning
+379249	5018	4.0	9025	instruction fine-tuning
+582112	5013	1.0	9012	in-context learning
+660384	5031	3.0	9017	instruction fine-tuning
+395804	5020	1.0	9049	ablation study evaluation
+875264	5018	5.0	9033	instruction fine-tuning
+974239	5021	4.0	9049	full fine-tuning
+511228	5013	3.0	9029	few-shot
+376748	5029	4.0	9006	in-context learning
+713572	5030	5.0	9032	instruction fine-tuning
+464659	5004	2.0	9007	ablation study evaluation
+761550	5009	5.0	9006	instruction fine-tuning
+437659	5010	3.0	9032	instruction fine-tuning
+896369	5013	3.0	9005	fine-tuning
+788425	5013	2.0	9048	in-context learning
+896369	5002	4.0	9013	zero-shot
+138853	5009	3.0	9005	full fine-tuning
+954163	5010	1.0	9016	in-context learning
+761550	5013	2.0	9009	zero-shot
+667547	5009	4.0	9049	full fine-tuning
+379249	5009	2.0	9010	zero-shot
+892048	5009	5.0	9022	full fine-tuning
+761550	5023	1.0	9027	zero-shot
+326209	5015	1.0	9018	evaluation
+801028	5015	1.0	9008	benchmark evaluation
+397508	5005	2.0	9037	LoRA fine-tuning
+459069	5027	3.0	9033	instruction fine-tuning
+140350	5021	2.0	9006	fine-tuning
+673217	5018	4.0	9010	ablation study evaluation
+864703	5009	1.0	9022	evaluation
+159914	5026	3.0	9022	zero-shot
+954163	5029	4.0	9015	instruction fine-tuning
+697735	5027	3.0	9012	few-shot
+849046	5023	1.0	9038	ablation study evaluation
+653158	5018	4.0	9010	instruction fine-tuning
+626869	5010	2.0	9025	full fine-tuning
+262895	5025	2.0	9004	zero-shot
+320703	5011	1.0	9003	zero-shot
+974239	5030	4.0	9028	benchmark evaluation
+742820	5010	1.0	9025	LoRA fine-tuning
+810380	5024	1.0	9028	evaluation
+421663	5027	2.0	9018	fine-tuning
+143641	5018	1.0	9015	instruction fine-tuning
+511228	5031	2.0	9038	ablation study evaluation
+464659	5010	3.0	9030	ablation study evaluation
+395804	5003	1.0	9049	zero-shot
+719626	5017	1.0	9035	fine-tuning
+397508	5017	2.0	9017	evaluation
+870502	5021	4.0	9015	zero-shot
+197783	5008	1.0	9017	LoRA fine-tuning
+921883	5011	1.0	9018	zero-shot
+534455	5016	4.0	9001	LoRA fine-tuning
+673217	5013	2.0	9036	ablation study evaluation
+331350	5028	3.0	9015	evaluation
+238175	5002	2.0	9004	zero-shot
+238175	5010	3.0	9033	ablation study evaluation
+982921	5018	1.0	9044	full fine-tuning
+788425	5021	3.0	9050	zero-shot
+333589	5020	1.0	9005	in-context learning
+602263	5030	1.0	9017	benchmark evaluation
+779760	5004	3.0	9024	benchmark evaluation
+582112	5010	3.0	9045	full fine-tuning
+114698	5026	2.0	9024	instruction fine-tuning
+132509	5012	1.0	9038	evaluation
+787471	5030	1.0	9009	benchmark evaluation
+778612	5030	4.0	9045	zero-shot
+921883	5021	1.0	9047	benchmark evaluation
+333589	5008	1.0	9004	benchmark evaluation
+651115	5016	5.0	9027	fine-tuning
+710956	5029	1.0	9026	zero-shot
+310748	5006	1.0	9004	benchmark evaluation
+534455	5031	1.0	9024	evaluation
+694610	5030	3.0	9048	instruction fine-tuning
+995455	5027	5.0	9023	benchmark evaluation
+785175	5010	3.0	9040	few-shot
+164553	5018	1.0	9023	fine-tuning
+602263	5032	4.0	9046	zero-shot
+689093	5027	4.0	9046	instruction fine-tuning
+382044	5024	5.0	9043	zero-shot
+283986	5018	5.0	9047	zero-shot
+660384	5018	1.0	9017	instruction fine-tuning
+573279	5012	2.0	9016	in-context learning
+623671	5021	5.0	9022	LoRA fine-tuning
+158486	5007	1.0	9002	full fine-tuning
+132509	5030	4.0	9041	benchmark evaluation
+181812	5001	2.0	9025	instruction fine-tuning
+629076	5017	2.0	9001	full fine-tuning
+296952	5032	4.0	9020	instruction fine-tuning
+310748	5001	3.0	9038	instruction fine-tuning
+143270	5008	1.0	9043	in-context learning
+743666	5029	2.0	9002	in-context learning
+373353	5009	5.0	9031	zero-shot
+708292	5010	3.0	9048	ablation study evaluation
+333589	5008	1.0	9018	instruction fine-tuning
+376748	5009	4.0	9021	zero-shot
+464659	5012	2.0	9005	few-shot
+954163	5027	1.0	9020	ablation study evaluation
+268648	5016	2.0	9006	instruction fine-tuning
+621636	5032	4.0	9005	ablation study evaluation
+626869	5023	1.0	9024	fine-tuning
+342117	5012	1.0	9031	few-shot
+586234	5008	1.0	9042	benchmark evaluation
+896369	5004	3.0	9042	instruction fine-tuning
+132509	5016	3.0	9024	instruction fine-tuning
+954163	5022	2.0	9023	few-shot
+954163	5030	3.0	9044	in-context learning
+350063	5021	2.0	9039	LoRA fine-tuning
+250448	5001	3.0	9032	fine-tuning
+742139	5030	3.0	9038	evaluation
+171608	5016	4.0	9014	LoRA fine-tuning
+982921	5018	5.0	9040	fine-tuning
+429348	5024	2.0	9034	benchmark evaluation
+582112	5013	3.0	9039	in-context learning
+624101	5009	3.0	9031	zero-shot
+178427	5001	3.0	9028	few-shot
+859773	5001	3.0	9009	instruction fine-tuning
+248331	5008	2.0	9024	few-shot
+138853	5027	1.0	9018	full fine-tuning
+310748	5013	3.0	9012	LoRA fine-tuning
+464659	5016	2.0	9036	LoRA fine-tuning
+796418	5032	2.0	9016	zero-shot
+864703	5031	3.0	9034	full fine-tuning
+727516	5004	3.0	9010	benchmark evaluation
+892048	5018	2.0	9031	ablation study evaluation
+607729	5005	2.0	9007	few-shot
+318073	5030	2.0	9042	benchmark evaluation
+459069	5018	2.0	9046	evaluation
+143270	5009	3.0	9015	LoRA fine-tuning
+429348	5012	1.0	9020	in-context learning
+607729	5022	1.0	9018	instruction fine-tuning
+132509	5004	4.0	9032	LoRA fine-tuning
+894813	5015	1.0	9003	ablation study evaluation
+573279	5010	4.0	9042	LoRA fine-tuning
+613419	5008	1.0	9004	instruction fine-tuning
+864703	5024	1.0	9013	LoRA fine-tuning
+829603	5016	4.0	9007	few-shot
+197657	5017	2.0	9009	zero-shot
+353910	5005	2.0	9028	zero-shot
+373000	5004	1.0	9005	evaluation
+896369	5004	2.0	9038	few-shot
+376748	5025	2.0	9050	benchmark evaluation
+216758	5009	4.0	9048	ablation study evaluation
+840631	5004	3.0	9023	ablation study evaluation
+429348	5006	1.0	9013	benchmark evaluation
+397508	5021	2.0	9008	in-context learning
+376748	5019	1.0	9050	evaluation
+376748	5019	2.0	9050	zero-shot
+376748	5003	1.0	9048	zero-shot
+197657	5003	1.0	9005	in-context learning
+197657	5004	1.0	9032	LoRA fine-tuning
+197657	5004	2.0	9046	benchmark evaluation
+197657	5004	3.0	9010	instruction fine-tuning
+197657	5004	4.0	9018	ablation study evaluation
